@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "name": "bengaluru_south_cadastre",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_45_2",
+      "properties": {
+        "SURVEY_NO": "45/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "45/2",
+        "KHASRA_NO": "45/2",
+        "OWNER": "Naveen Kumar & Partners",
+        "OWNER_NAME": "Naveen Kumar & Partners",
+        "AREA_ACRE": "1 Acre 12 Gunta",
+        "EXTENT": "1 Acre 12 Gunta",
+        "HOLDING_AREA": "1 Acre 12 Gunta",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹85,00,000",
+        "MARKET_VAL": "₹123,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7463,
+              12.9714
+            ],
+            [
+              77.7463,
+              12.973
+            ],
+            [
+              77.7481,
+              12.973
+            ],
+            [
+              77.7481,
+              12.9714
+            ],
+            [
+              77.7463,
+              12.9714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_45_1",
+      "properties": {
+        "SURVEY_NO": "45/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "45/1",
+        "KHASRA_NO": "45/1",
+        "OWNER": "K. Venkateshappa",
+        "OWNER_NAME": "K. Venkateshappa",
+        "AREA_ACRE": "1 Acre 20 Guntas",
+        "EXTENT": "1 Acre 20 Guntas",
+        "HOLDING_AREA": "1 Acre 20 Guntas",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹89,00,000",
+        "MARKET_VAL": "₹129,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7481,
+              12.9714
+            ],
+            [
+              77.7481,
+              12.973
+            ],
+            [
+              77.7499,
+              12.973
+            ],
+            [
+              77.7499,
+              12.9714
+            ],
+            [
+              77.7481,
+              12.9714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_46_1",
+      "properties": {
+        "SURVEY_NO": "46/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "46/1",
+        "KHASRA_NO": "46/1",
+        "OWNER": "Smt. Radha Bai",
+        "OWNER_NAME": "Smt. Radha Bai",
+        "AREA_ACRE": "2 Acres 05 Guntas",
+        "EXTENT": "2 Acres 05 Guntas",
+        "HOLDING_AREA": "2 Acres 05 Guntas",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹92,00,000",
+        "MARKET_VAL": "₹133,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7499,
+              12.9714
+            ],
+            [
+              77.7499,
+              12.973
+            ],
+            [
+              77.7517,
+              12.973
+            ],
+            [
+              77.7517,
+              12.9714
+            ],
+            [
+              77.7499,
+              12.9714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_46_2",
+      "properties": {
+        "SURVEY_NO": "46/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "46/2",
+        "KHASRA_NO": "46/2",
+        "OWNER": "M. G. Manjunath",
+        "OWNER_NAME": "M. G. Manjunath",
+        "AREA_ACRE": "0 Acre 32 Gunta",
+        "EXTENT": "0 Acre 32 Gunta",
+        "HOLDING_AREA": "0 Acre 32 Gunta",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹96,00,000",
+        "MARKET_VAL": "₹139,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7517,
+              12.9714
+            ],
+            [
+              77.7517,
+              12.973
+            ],
+            [
+              77.7535,
+              12.973
+            ],
+            [
+              77.7535,
+              12.9714
+            ],
+            [
+              77.7517,
+              12.9714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_47",
+      "properties": {
+        "SURVEY_NO": "47",
+        "SUB_DIV": "",
+        "GAT_NO": "47",
+        "KHASRA_NO": "47",
+        "OWNER": "Anand R. Gowda",
+        "OWNER_NAME": "Anand R. Gowda",
+        "AREA_ACRE": "1 Acre 00 Gunta",
+        "EXTENT": "1 Acre 00 Gunta",
+        "HOLDING_AREA": "1 Acre 00 Gunta",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹99,00,000",
+        "MARKET_VAL": "₹144,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7535,
+              12.9714
+            ],
+            [
+              77.7535,
+              12.973
+            ],
+            [
+              77.7553,
+              12.973
+            ],
+            [
+              77.7553,
+              12.9714
+            ],
+            [
+              77.7535,
+              12.9714
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_48",
+      "properties": {
+        "SURVEY_NO": "48",
+        "SUB_DIV": "",
+        "GAT_NO": "48",
+        "KHASRA_NO": "48",
+        "OWNER": "Lakshmamma & Legal Heirs",
+        "OWNER_NAME": "Lakshmamma & Legal Heirs",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹103,00,000",
+        "MARKET_VAL": "₹149,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7463,
+              12.9698
+            ],
+            [
+              77.7463,
+              12.9714
+            ],
+            [
+              77.7481,
+              12.9714
+            ],
+            [
+              77.7481,
+              12.9698
+            ],
+            [
+              77.7463,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_49_a",
+      "properties": {
+        "SURVEY_NO": "49/A",
+        "SUB_DIV": "A",
+        "GAT_NO": "49/A",
+        "KHASRA_NO": "49/A",
+        "OWNER": "B. S. Suresh",
+        "OWNER_NAME": "B. S. Suresh",
+        "AREA_ACRE": "1 Acre 12 Gunta",
+        "EXTENT": "1 Acre 12 Gunta",
+        "HOLDING_AREA": "1 Acre 12 Gunta",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹106,00,000",
+        "MARKET_VAL": "₹154,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7481,
+              12.9698
+            ],
+            [
+              77.7481,
+              12.9714
+            ],
+            [
+              77.7499,
+              12.9714
+            ],
+            [
+              77.7499,
+              12.9698
+            ],
+            [
+              77.7481,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_49_b",
+      "properties": {
+        "SURVEY_NO": "49/B",
+        "SUB_DIV": "B",
+        "GAT_NO": "49/B",
+        "KHASRA_NO": "49/B",
+        "OWNER": "H. Muniraju",
+        "OWNER_NAME": "H. Muniraju",
+        "AREA_ACRE": "1 Acre 20 Guntas",
+        "EXTENT": "1 Acre 20 Guntas",
+        "HOLDING_AREA": "1 Acre 20 Guntas",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹110,00,000",
+        "MARKET_VAL": "₹160,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7499,
+              12.9698
+            ],
+            [
+              77.7499,
+              12.9714
+            ],
+            [
+              77.7517,
+              12.9714
+            ],
+            [
+              77.7517,
+              12.9698
+            ],
+            [
+              77.7499,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_50",
+      "properties": {
+        "SURVEY_NO": "50",
+        "SUB_DIV": "",
+        "GAT_NO": "50",
+        "KHASRA_NO": "50",
+        "OWNER": "T. Narayanaswamy",
+        "OWNER_NAME": "T. Narayanaswamy",
+        "AREA_ACRE": "2 Acres 05 Guntas",
+        "EXTENT": "2 Acres 05 Guntas",
+        "HOLDING_AREA": "2 Acres 05 Guntas",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹113,00,000",
+        "MARKET_VAL": "₹164,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7517,
+              12.9698
+            ],
+            [
+              77.7517,
+              12.9714
+            ],
+            [
+              77.7535,
+              12.9714
+            ],
+            [
+              77.7535,
+              12.9698
+            ],
+            [
+              77.7517,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_51_1",
+      "properties": {
+        "SURVEY_NO": "51/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "51/1",
+        "KHASRA_NO": "51/1",
+        "OWNER": "C. Vijayalakshmi",
+        "OWNER_NAME": "C. Vijayalakshmi",
+        "AREA_ACRE": "0 Acre 32 Gunta",
+        "EXTENT": "0 Acre 32 Gunta",
+        "HOLDING_AREA": "0 Acre 32 Gunta",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹117,00,000",
+        "MARKET_VAL": "₹170,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7535,
+              12.9698
+            ],
+            [
+              77.7535,
+              12.9714
+            ],
+            [
+              77.7553,
+              12.9714
+            ],
+            [
+              77.7553,
+              12.9698
+            ],
+            [
+              77.7535,
+              12.9698
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_51_2",
+      "properties": {
+        "SURVEY_NO": "51/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "51/2",
+        "KHASRA_NO": "51/2",
+        "OWNER": "Naveen Kumar & Partners",
+        "OWNER_NAME": "Naveen Kumar & Partners",
+        "AREA_ACRE": "1 Acre 00 Gunta",
+        "EXTENT": "1 Acre 00 Gunta",
+        "HOLDING_AREA": "1 Acre 00 Gunta",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹120,00,000",
+        "MARKET_VAL": "₹174,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7463,
+              12.9682
+            ],
+            [
+              77.7463,
+              12.9698
+            ],
+            [
+              77.7481,
+              12.9698
+            ],
+            [
+              77.7481,
+              12.9682
+            ],
+            [
+              77.7463,
+              12.9682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_52",
+      "properties": {
+        "SURVEY_NO": "52",
+        "SUB_DIV": "",
+        "GAT_NO": "52",
+        "KHASRA_NO": "52",
+        "OWNER": "K. Venkateshappa",
+        "OWNER_NAME": "K. Venkateshappa",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹124,00,000",
+        "MARKET_VAL": "₹180,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7481,
+              12.9682
+            ],
+            [
+              77.7481,
+              12.9698
+            ],
+            [
+              77.7499,
+              12.9698
+            ],
+            [
+              77.7499,
+              12.9682
+            ],
+            [
+              77.7481,
+              12.9682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_53",
+      "properties": {
+        "SURVEY_NO": "53",
+        "SUB_DIV": "",
+        "GAT_NO": "53",
+        "KHASRA_NO": "53",
+        "OWNER": "Smt. Radha Bai",
+        "OWNER_NAME": "Smt. Radha Bai",
+        "AREA_ACRE": "1 Acre 12 Gunta",
+        "EXTENT": "1 Acre 12 Gunta",
+        "HOLDING_AREA": "1 Acre 12 Gunta",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹127,00,000",
+        "MARKET_VAL": "₹184,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7499,
+              12.9682
+            ],
+            [
+              77.7499,
+              12.9698
+            ],
+            [
+              77.7517,
+              12.9698
+            ],
+            [
+              77.7517,
+              12.9682
+            ],
+            [
+              77.7499,
+              12.9682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_54",
+      "properties": {
+        "SURVEY_NO": "54",
+        "SUB_DIV": "",
+        "GAT_NO": "54",
+        "KHASRA_NO": "54",
+        "OWNER": "M. G. Manjunath",
+        "OWNER_NAME": "M. G. Manjunath",
+        "AREA_ACRE": "1 Acre 20 Guntas",
+        "EXTENT": "1 Acre 20 Guntas",
+        "HOLDING_AREA": "1 Acre 20 Guntas",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹131,00,000",
+        "MARKET_VAL": "₹190,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7517,
+              12.9682
+            ],
+            [
+              77.7517,
+              12.9698
+            ],
+            [
+              77.7535,
+              12.9698
+            ],
+            [
+              77.7535,
+              12.9682
+            ],
+            [
+              77.7517,
+              12.9682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_55_1",
+      "properties": {
+        "SURVEY_NO": "55/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "55/1",
+        "KHASRA_NO": "55/1",
+        "OWNER": "Anand R. Gowda",
+        "OWNER_NAME": "Anand R. Gowda",
+        "AREA_ACRE": "2 Acres 05 Guntas",
+        "EXTENT": "2 Acres 05 Guntas",
+        "HOLDING_AREA": "2 Acres 05 Guntas",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹134,00,000",
+        "MARKET_VAL": "₹194,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7535,
+              12.9682
+            ],
+            [
+              77.7535,
+              12.9698
+            ],
+            [
+              77.7553,
+              12.9698
+            ],
+            [
+              77.7553,
+              12.9682
+            ],
+            [
+              77.7535,
+              12.9682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_55_2",
+      "properties": {
+        "SURVEY_NO": "55/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "55/2",
+        "KHASRA_NO": "55/2",
+        "OWNER": "Lakshmamma & Legal Heirs",
+        "OWNER_NAME": "Lakshmamma & Legal Heirs",
+        "AREA_ACRE": "0 Acre 32 Gunta",
+        "EXTENT": "0 Acre 32 Gunta",
+        "HOLDING_AREA": "0 Acre 32 Gunta",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹138,00,000",
+        "MARKET_VAL": "₹200,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7463,
+              12.9666
+            ],
+            [
+              77.7463,
+              12.9682
+            ],
+            [
+              77.7481,
+              12.9682
+            ],
+            [
+              77.7481,
+              12.9666
+            ],
+            [
+              77.7463,
+              12.9666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_56",
+      "properties": {
+        "SURVEY_NO": "56",
+        "SUB_DIV": "",
+        "GAT_NO": "56",
+        "KHASRA_NO": "56",
+        "OWNER": "B. S. Suresh",
+        "OWNER_NAME": "B. S. Suresh",
+        "AREA_ACRE": "1 Acre 00 Gunta",
+        "EXTENT": "1 Acre 00 Gunta",
+        "HOLDING_AREA": "1 Acre 00 Gunta",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹141,00,000",
+        "MARKET_VAL": "₹204,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7481,
+              12.9666
+            ],
+            [
+              77.7481,
+              12.9682
+            ],
+            [
+              77.7499,
+              12.9682
+            ],
+            [
+              77.7499,
+              12.9666
+            ],
+            [
+              77.7481,
+              12.9666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_57",
+      "properties": {
+        "SURVEY_NO": "57",
+        "SUB_DIV": "",
+        "GAT_NO": "57",
+        "KHASRA_NO": "57",
+        "OWNER": "H. Muniraju",
+        "OWNER_NAME": "H. Muniraju",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹145,00,000",
+        "MARKET_VAL": "₹210,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7499,
+              12.9666
+            ],
+            [
+              77.7499,
+              12.9682
+            ],
+            [
+              77.7517,
+              12.9682
+            ],
+            [
+              77.7517,
+              12.9666
+            ],
+            [
+              77.7499,
+              12.9666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_58",
+      "properties": {
+        "SURVEY_NO": "58",
+        "SUB_DIV": "",
+        "GAT_NO": "58",
+        "KHASRA_NO": "58",
+        "OWNER": "T. Narayanaswamy",
+        "OWNER_NAME": "T. Narayanaswamy",
+        "AREA_ACRE": "1 Acre 12 Gunta",
+        "EXTENT": "1 Acre 12 Gunta",
+        "HOLDING_AREA": "1 Acre 12 Gunta",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹148,00,000",
+        "MARKET_VAL": "₹215,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7517,
+              12.9666
+            ],
+            [
+              77.7517,
+              12.9682
+            ],
+            [
+              77.7535,
+              12.9682
+            ],
+            [
+              77.7535,
+              12.9666
+            ],
+            [
+              77.7517,
+              12.9666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_59",
+      "properties": {
+        "SURVEY_NO": "59",
+        "SUB_DIV": "",
+        "GAT_NO": "59",
+        "KHASRA_NO": "59",
+        "OWNER": "C. Vijayalakshmi",
+        "OWNER_NAME": "C. Vijayalakshmi",
+        "AREA_ACRE": "1 Acre 20 Guntas",
+        "EXTENT": "1 Acre 20 Guntas",
+        "HOLDING_AREA": "1 Acre 20 Guntas",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹152,00,000",
+        "MARKET_VAL": "₹220,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7535,
+              12.9666
+            ],
+            [
+              77.7535,
+              12.9682
+            ],
+            [
+              77.7553,
+              12.9682
+            ],
+            [
+              77.7553,
+              12.9666
+            ],
+            [
+              77.7535,
+              12.9666
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_60",
+      "properties": {
+        "SURVEY_NO": "60",
+        "SUB_DIV": "",
+        "GAT_NO": "60",
+        "KHASRA_NO": "60",
+        "OWNER": "Naveen Kumar & Partners",
+        "OWNER_NAME": "Naveen Kumar & Partners",
+        "AREA_ACRE": "2 Acres 05 Guntas",
+        "EXTENT": "2 Acres 05 Guntas",
+        "HOLDING_AREA": "2 Acres 05 Guntas",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹155,00,000",
+        "MARKET_VAL": "₹225,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7463,
+              12.965
+            ],
+            [
+              77.7463,
+              12.9666
+            ],
+            [
+              77.7481,
+              12.9666
+            ],
+            [
+              77.7481,
+              12.965
+            ],
+            [
+              77.7463,
+              12.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_61_1",
+      "properties": {
+        "SURVEY_NO": "61/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "61/1",
+        "KHASRA_NO": "61/1",
+        "OWNER": "K. Venkateshappa",
+        "OWNER_NAME": "K. Venkateshappa",
+        "AREA_ACRE": "0 Acre 32 Gunta",
+        "EXTENT": "0 Acre 32 Gunta",
+        "HOLDING_AREA": "0 Acre 32 Gunta",
+        "LAND_USE": "Agricultural (Kushka / Dry Crop)",
+        "LAND_TYPE": "Agricultural (Kushka / Dry Crop)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹159,00,000",
+        "MARKET_VAL": "₹231,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7481,
+              12.965
+            ],
+            [
+              77.7481,
+              12.9666
+            ],
+            [
+              77.7499,
+              12.9666
+            ],
+            [
+              77.7499,
+              12.965
+            ],
+            [
+              77.7481,
+              12.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_61_2",
+      "properties": {
+        "SURVEY_NO": "61/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "61/2",
+        "KHASRA_NO": "61/2",
+        "OWNER": "Smt. Radha Bai",
+        "OWNER_NAME": "Smt. Radha Bai",
+        "AREA_ACRE": "1 Acre 00 Gunta",
+        "EXTENT": "1 Acre 00 Gunta",
+        "HOLDING_AREA": "1 Acre 00 Gunta",
+        "LAND_USE": "Converted Freehold (A-Khata)",
+        "LAND_TYPE": "Converted Freehold (A-Khata)",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹162,00,000",
+        "MARKET_VAL": "₹235,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7499,
+              12.965
+            ],
+            [
+              77.7499,
+              12.9666
+            ],
+            [
+              77.7517,
+              12.9666
+            ],
+            [
+              77.7517,
+              12.965
+            ],
+            [
+              77.7499,
+              12.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_62",
+      "properties": {
+        "SURVEY_NO": "62",
+        "SUB_DIV": "",
+        "GAT_NO": "62",
+        "KHASRA_NO": "62",
+        "OWNER": "M. G. Manjunath",
+        "OWNER_NAME": "M. G. Manjunath",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹166,00,000",
+        "MARKET_VAL": "₹241,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7517,
+              12.965
+            ],
+            [
+              77.7517,
+              12.9666
+            ],
+            [
+              77.7535,
+              12.9666
+            ],
+            [
+              77.7535,
+              12.965
+            ],
+            [
+              77.7517,
+              12.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_ka_bengaluru_whitefield_63",
+      "properties": {
+        "SURVEY_NO": "63",
+        "SUB_DIV": "",
+        "GAT_NO": "63",
+        "KHASRA_NO": "63",
+        "OWNER": "Anand R. Gowda",
+        "OWNER_NAME": "Anand R. Gowda",
+        "AREA_ACRE": "1 Acre 12 Gunta",
+        "EXTENT": "1 Acre 12 Gunta",
+        "HOLDING_AREA": "1 Acre 12 Gunta",
+        "LAND_USE": "Converted Commercial / IT Corridor",
+        "LAND_TYPE": "Converted Commercial / IT Corridor",
+        "VILLAGE": "Whitefield",
+        "TALUKA": "Bengaluru South",
+        "TEHSIL": "Bengaluru South",
+        "DISTRICT": "Bengaluru Urban",
+        "STATE": "KA",
+        "GUIDANCE_VAL": "₹169,00,000",
+        "MARKET_VAL": "₹245,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7535,
+              12.965
+            ],
+            [
+              77.7535,
+              12.9666
+            ],
+            [
+              77.7553,
+              12.9666
+            ],
+            [
+              77.7553,
+              12.965
+            ],
+            [
+              77.7535,
+              12.965
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

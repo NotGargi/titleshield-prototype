@@ -1,0 +1,1337 @@
+{
+  "type": "FeatureCollection",
+  "name": "kanchipuram_sriperumbudur_cadastre",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_52_1",
+      "properties": {
+        "SURVEY_NO": "52/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "52/1",
+        "KHASRA_NO": "52/1",
+        "OWNER": "M. Selvakumar",
+        "OWNER_NAME": "M. Selvakumar",
+        "AREA_ACRE": "0 Hectare 40.50 Are (1.00 Acre)",
+        "EXTENT": "0 Hectare 40.50 Are (1.00 Acre)",
+        "HOLDING_AREA": "0 Hectare 40.50 Are (1.00 Acre)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹52,00,000",
+        "MARKET_VAL": "₹78,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9394,
+              12.9691
+            ],
+            [
+              79.9394,
+              12.9707
+            ],
+            [
+              79.9412,
+              12.9707
+            ],
+            [
+              79.9412,
+              12.9691
+            ],
+            [
+              79.9394,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_52_2",
+      "properties": {
+        "SURVEY_NO": "52/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "52/2",
+        "KHASRA_NO": "52/2",
+        "OWNER": "S. Subramanian",
+        "OWNER_NAME": "S. Subramanian",
+        "AREA_ACRE": "0 Hectare 20.25 Are (50 Cents)",
+        "EXTENT": "0 Hectare 20.25 Are (50 Cents)",
+        "HOLDING_AREA": "0 Hectare 20.25 Are (50 Cents)",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹56,00,000",
+        "MARKET_VAL": "₹84,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9412,
+              12.9691
+            ],
+            [
+              79.9412,
+              12.9707
+            ],
+            [
+              79.943,
+              12.9707
+            ],
+            [
+              79.943,
+              12.9691
+            ],
+            [
+              79.9412,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_53",
+      "properties": {
+        "SURVEY_NO": "53",
+        "SUB_DIV": "",
+        "GAT_NO": "53",
+        "KHASRA_NO": "53",
+        "OWNER": "K. Ramanathan",
+        "OWNER_NAME": "K. Ramanathan",
+        "AREA_ACRE": "0 Hectare 60.75 Are (1.50 Acres)",
+        "EXTENT": "0 Hectare 60.75 Are (1.50 Acres)",
+        "HOLDING_AREA": "0 Hectare 60.75 Are (1.50 Acres)",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹59,00,000",
+        "MARKET_VAL": "₹89,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.943,
+              12.9691
+            ],
+            [
+              79.943,
+              12.9707
+            ],
+            [
+              79.9448,
+              12.9707
+            ],
+            [
+              79.9448,
+              12.9691
+            ],
+            [
+              79.943,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_54",
+      "properties": {
+        "SURVEY_NO": "54",
+        "SUB_DIV": "",
+        "GAT_NO": "54",
+        "KHASRA_NO": "54",
+        "OWNER": "R. Lakshmi",
+        "OWNER_NAME": "R. Lakshmi",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹63,00,000",
+        "MARKET_VAL": "₹95,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9448,
+              12.9691
+            ],
+            [
+              79.9448,
+              12.9707
+            ],
+            [
+              79.9466,
+              12.9707
+            ],
+            [
+              79.9466,
+              12.9691
+            ],
+            [
+              79.9448,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_55_1",
+      "properties": {
+        "SURVEY_NO": "55/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "55/1",
+        "KHASRA_NO": "55/1",
+        "OWNER": "T. Soundararajan",
+        "OWNER_NAME": "T. Soundararajan",
+        "AREA_ACRE": "1 Hectare 00 Are (2.47 Acres)",
+        "EXTENT": "1 Hectare 00 Are (2.47 Acres)",
+        "HOLDING_AREA": "1 Hectare 00 Are (2.47 Acres)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹66,00,000",
+        "MARKET_VAL": "₹99,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9466,
+              12.9691
+            ],
+            [
+              79.9466,
+              12.9707
+            ],
+            [
+              79.9484,
+              12.9707
+            ],
+            [
+              79.9484,
+              12.9691
+            ],
+            [
+              79.9466,
+              12.9691
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_55_2",
+      "properties": {
+        "SURVEY_NO": "55/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "55/2",
+        "KHASRA_NO": "55/2",
+        "OWNER": "K. Vijayalakshmi",
+        "OWNER_NAME": "K. Vijayalakshmi",
+        "AREA_ACRE": "0 Hectare 40.50 Are (1.00 Acre)",
+        "EXTENT": "0 Hectare 40.50 Are (1.00 Acre)",
+        "HOLDING_AREA": "0 Hectare 40.50 Are (1.00 Acre)",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹105,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9394,
+              12.9675
+            ],
+            [
+              79.9394,
+              12.9691
+            ],
+            [
+              79.9412,
+              12.9691
+            ],
+            [
+              79.9412,
+              12.9675
+            ],
+            [
+              79.9394,
+              12.9675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_56",
+      "properties": {
+        "SURVEY_NO": "56",
+        "SUB_DIV": "",
+        "GAT_NO": "56",
+        "KHASRA_NO": "56",
+        "OWNER": "P. Balasubramaniam",
+        "OWNER_NAME": "P. Balasubramaniam",
+        "AREA_ACRE": "0 Hectare 20.25 Are (50 Cents)",
+        "EXTENT": "0 Hectare 20.25 Are (50 Cents)",
+        "HOLDING_AREA": "0 Hectare 20.25 Are (50 Cents)",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹73,00,000",
+        "MARKET_VAL": "₹110,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9412,
+              12.9675
+            ],
+            [
+              79.9412,
+              12.9691
+            ],
+            [
+              79.943,
+              12.9691
+            ],
+            [
+              79.943,
+              12.9675
+            ],
+            [
+              79.9412,
+              12.9675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_57_1",
+      "properties": {
+        "SURVEY_NO": "57/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "57/1",
+        "KHASRA_NO": "57/1",
+        "OWNER": "S. Murugan",
+        "OWNER_NAME": "S. Murugan",
+        "AREA_ACRE": "0 Hectare 60.75 Are (1.50 Acres)",
+        "EXTENT": "0 Hectare 60.75 Are (1.50 Acres)",
+        "HOLDING_AREA": "0 Hectare 60.75 Are (1.50 Acres)",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹77,00,000",
+        "MARKET_VAL": "₹116,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.943,
+              12.9675
+            ],
+            [
+              79.943,
+              12.9691
+            ],
+            [
+              79.9448,
+              12.9691
+            ],
+            [
+              79.9448,
+              12.9675
+            ],
+            [
+              79.943,
+              12.9675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_57_2",
+      "properties": {
+        "SURVEY_NO": "57/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "57/2",
+        "KHASRA_NO": "57/2",
+        "OWNER": "V. Dhanalakshmi",
+        "OWNER_NAME": "V. Dhanalakshmi",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹120,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9448,
+              12.9675
+            ],
+            [
+              79.9448,
+              12.9691
+            ],
+            [
+              79.9466,
+              12.9691
+            ],
+            [
+              79.9466,
+              12.9675
+            ],
+            [
+              79.9448,
+              12.9675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_58",
+      "properties": {
+        "SURVEY_NO": "58",
+        "SUB_DIV": "",
+        "GAT_NO": "58",
+        "KHASRA_NO": "58",
+        "OWNER": "N. Krishnamurthy",
+        "OWNER_NAME": "N. Krishnamurthy",
+        "AREA_ACRE": "1 Hectare 00 Are (2.47 Acres)",
+        "EXTENT": "1 Hectare 00 Are (2.47 Acres)",
+        "HOLDING_AREA": "1 Hectare 00 Are (2.47 Acres)",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹84,00,000",
+        "MARKET_VAL": "₹126,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9466,
+              12.9675
+            ],
+            [
+              79.9466,
+              12.9691
+            ],
+            [
+              79.9484,
+              12.9691
+            ],
+            [
+              79.9484,
+              12.9675
+            ],
+            [
+              79.9466,
+              12.9675
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_59",
+      "properties": {
+        "SURVEY_NO": "59",
+        "SUB_DIV": "",
+        "GAT_NO": "59",
+        "KHASRA_NO": "59",
+        "OWNER": "M. Selvakumar",
+        "OWNER_NAME": "M. Selvakumar",
+        "AREA_ACRE": "0 Hectare 40.50 Are (1.00 Acre)",
+        "EXTENT": "0 Hectare 40.50 Are (1.00 Acre)",
+        "HOLDING_AREA": "0 Hectare 40.50 Are (1.00 Acre)",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹87,00,000",
+        "MARKET_VAL": "₹131,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9394,
+              12.9659
+            ],
+            [
+              79.9394,
+              12.9675
+            ],
+            [
+              79.9412,
+              12.9675
+            ],
+            [
+              79.9412,
+              12.9659
+            ],
+            [
+              79.9394,
+              12.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_60",
+      "properties": {
+        "SURVEY_NO": "60",
+        "SUB_DIV": "",
+        "GAT_NO": "60",
+        "KHASRA_NO": "60",
+        "OWNER": "S. Subramanian",
+        "OWNER_NAME": "S. Subramanian",
+        "AREA_ACRE": "0 Hectare 20.25 Are (50 Cents)",
+        "EXTENT": "0 Hectare 20.25 Are (50 Cents)",
+        "HOLDING_AREA": "0 Hectare 20.25 Are (50 Cents)",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹91,00,000",
+        "MARKET_VAL": "₹137,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9412,
+              12.9659
+            ],
+            [
+              79.9412,
+              12.9675
+            ],
+            [
+              79.943,
+              12.9675
+            ],
+            [
+              79.943,
+              12.9659
+            ],
+            [
+              79.9412,
+              12.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_61_1",
+      "properties": {
+        "SURVEY_NO": "61/1",
+        "SUB_DIV": "1",
+        "GAT_NO": "61/1",
+        "KHASRA_NO": "61/1",
+        "OWNER": "K. Ramanathan",
+        "OWNER_NAME": "K. Ramanathan",
+        "AREA_ACRE": "0 Hectare 60.75 Are (1.50 Acres)",
+        "EXTENT": "0 Hectare 60.75 Are (1.50 Acres)",
+        "HOLDING_AREA": "0 Hectare 60.75 Are (1.50 Acres)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹94,00,000",
+        "MARKET_VAL": "₹141,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.943,
+              12.9659
+            ],
+            [
+              79.943,
+              12.9675
+            ],
+            [
+              79.9448,
+              12.9675
+            ],
+            [
+              79.9448,
+              12.9659
+            ],
+            [
+              79.943,
+              12.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_61_2",
+      "properties": {
+        "SURVEY_NO": "61/2",
+        "SUB_DIV": "2",
+        "GAT_NO": "61/2",
+        "KHASRA_NO": "61/2",
+        "OWNER": "R. Lakshmi",
+        "OWNER_NAME": "R. Lakshmi",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹98,00,000",
+        "MARKET_VAL": "₹147,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9448,
+              12.9659
+            ],
+            [
+              79.9448,
+              12.9675
+            ],
+            [
+              79.9466,
+              12.9675
+            ],
+            [
+              79.9466,
+              12.9659
+            ],
+            [
+              79.9448,
+              12.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_62",
+      "properties": {
+        "SURVEY_NO": "62",
+        "SUB_DIV": "",
+        "GAT_NO": "62",
+        "KHASRA_NO": "62",
+        "OWNER": "T. Soundararajan",
+        "OWNER_NAME": "T. Soundararajan",
+        "AREA_ACRE": "1 Hectare 00 Are (2.47 Acres)",
+        "EXTENT": "1 Hectare 00 Are (2.47 Acres)",
+        "HOLDING_AREA": "1 Hectare 00 Are (2.47 Acres)",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹101,00,000",
+        "MARKET_VAL": "₹152,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9466,
+              12.9659
+            ],
+            [
+              79.9466,
+              12.9675
+            ],
+            [
+              79.9484,
+              12.9675
+            ],
+            [
+              79.9484,
+              12.9659
+            ],
+            [
+              79.9466,
+              12.9659
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_63",
+      "properties": {
+        "SURVEY_NO": "63",
+        "SUB_DIV": "",
+        "GAT_NO": "63",
+        "KHASRA_NO": "63",
+        "OWNER": "K. Vijayalakshmi",
+        "OWNER_NAME": "K. Vijayalakshmi",
+        "AREA_ACRE": "0 Hectare 40.50 Are (1.00 Acre)",
+        "EXTENT": "0 Hectare 40.50 Are (1.00 Acre)",
+        "HOLDING_AREA": "0 Hectare 40.50 Are (1.00 Acre)",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹105,00,000",
+        "MARKET_VAL": "₹158,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9394,
+              12.9643
+            ],
+            [
+              79.9394,
+              12.9659
+            ],
+            [
+              79.9412,
+              12.9659
+            ],
+            [
+              79.9412,
+              12.9643
+            ],
+            [
+              79.9394,
+              12.9643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_64",
+      "properties": {
+        "SURVEY_NO": "64",
+        "SUB_DIV": "",
+        "GAT_NO": "64",
+        "KHASRA_NO": "64",
+        "OWNER": "P. Balasubramaniam",
+        "OWNER_NAME": "P. Balasubramaniam",
+        "AREA_ACRE": "0 Hectare 20.25 Are (50 Cents)",
+        "EXTENT": "0 Hectare 20.25 Are (50 Cents)",
+        "HOLDING_AREA": "0 Hectare 20.25 Are (50 Cents)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹108,00,000",
+        "MARKET_VAL": "₹162,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9412,
+              12.9643
+            ],
+            [
+              79.9412,
+              12.9659
+            ],
+            [
+              79.943,
+              12.9659
+            ],
+            [
+              79.943,
+              12.9643
+            ],
+            [
+              79.9412,
+              12.9643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_65",
+      "properties": {
+        "SURVEY_NO": "65",
+        "SUB_DIV": "",
+        "GAT_NO": "65",
+        "KHASRA_NO": "65",
+        "OWNER": "S. Murugan",
+        "OWNER_NAME": "S. Murugan",
+        "AREA_ACRE": "0 Hectare 60.75 Are (1.50 Acres)",
+        "EXTENT": "0 Hectare 60.75 Are (1.50 Acres)",
+        "HOLDING_AREA": "0 Hectare 60.75 Are (1.50 Acres)",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹112,00,000",
+        "MARKET_VAL": "₹168,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.943,
+              12.9643
+            ],
+            [
+              79.943,
+              12.9659
+            ],
+            [
+              79.9448,
+              12.9659
+            ],
+            [
+              79.9448,
+              12.9643
+            ],
+            [
+              79.943,
+              12.9643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_66",
+      "properties": {
+        "SURVEY_NO": "66",
+        "SUB_DIV": "",
+        "GAT_NO": "66",
+        "KHASRA_NO": "66",
+        "OWNER": "V. Dhanalakshmi",
+        "OWNER_NAME": "V. Dhanalakshmi",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹115,00,000",
+        "MARKET_VAL": "₹173,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9448,
+              12.9643
+            ],
+            [
+              79.9448,
+              12.9659
+            ],
+            [
+              79.9466,
+              12.9659
+            ],
+            [
+              79.9466,
+              12.9643
+            ],
+            [
+              79.9448,
+              12.9643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_67",
+      "properties": {
+        "SURVEY_NO": "67",
+        "SUB_DIV": "",
+        "GAT_NO": "67",
+        "KHASRA_NO": "67",
+        "OWNER": "N. Krishnamurthy",
+        "OWNER_NAME": "N. Krishnamurthy",
+        "AREA_ACRE": "1 Hectare 00 Are (2.47 Acres)",
+        "EXTENT": "1 Hectare 00 Are (2.47 Acres)",
+        "HOLDING_AREA": "1 Hectare 00 Are (2.47 Acres)",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹119,00,000",
+        "MARKET_VAL": "₹179,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9466,
+              12.9643
+            ],
+            [
+              79.9466,
+              12.9659
+            ],
+            [
+              79.9484,
+              12.9659
+            ],
+            [
+              79.9484,
+              12.9643
+            ],
+            [
+              79.9466,
+              12.9643
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_68",
+      "properties": {
+        "SURVEY_NO": "68",
+        "SUB_DIV": "",
+        "GAT_NO": "68",
+        "KHASRA_NO": "68",
+        "OWNER": "M. Selvakumar",
+        "OWNER_NAME": "M. Selvakumar",
+        "AREA_ACRE": "0 Hectare 40.50 Are (1.00 Acre)",
+        "EXTENT": "0 Hectare 40.50 Are (1.00 Acre)",
+        "HOLDING_AREA": "0 Hectare 40.50 Are (1.00 Acre)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹122,00,000",
+        "MARKET_VAL": "₹183,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9394,
+              12.9627
+            ],
+            [
+              79.9394,
+              12.9643
+            ],
+            [
+              79.9412,
+              12.9643
+            ],
+            [
+              79.9412,
+              12.9627
+            ],
+            [
+              79.9394,
+              12.9627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_69",
+      "properties": {
+        "SURVEY_NO": "69",
+        "SUB_DIV": "",
+        "GAT_NO": "69",
+        "KHASRA_NO": "69",
+        "OWNER": "S. Subramanian",
+        "OWNER_NAME": "S. Subramanian",
+        "AREA_ACRE": "0 Hectare 20.25 Are (50 Cents)",
+        "EXTENT": "0 Hectare 20.25 Are (50 Cents)",
+        "HOLDING_AREA": "0 Hectare 20.25 Are (50 Cents)",
+        "LAND_USE": "Ryotwari Nanjai (Wet Freehold)",
+        "LAND_TYPE": "Ryotwari Nanjai (Wet Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹126,00,000",
+        "MARKET_VAL": "₹189,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9412,
+              12.9627
+            ],
+            [
+              79.9412,
+              12.9643
+            ],
+            [
+              79.943,
+              12.9643
+            ],
+            [
+              79.943,
+              12.9627
+            ],
+            [
+              79.9412,
+              12.9627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_70",
+      "properties": {
+        "SURVEY_NO": "70",
+        "SUB_DIV": "",
+        "GAT_NO": "70",
+        "KHASRA_NO": "70",
+        "OWNER": "K. Ramanathan",
+        "OWNER_NAME": "K. Ramanathan",
+        "AREA_ACRE": "0 Hectare 60.75 Are (1.50 Acres)",
+        "EXTENT": "0 Hectare 60.75 Are (1.50 Acres)",
+        "HOLDING_AREA": "0 Hectare 60.75 Are (1.50 Acres)",
+        "LAND_USE": "DTCP Approved Residential Layout",
+        "LAND_TYPE": "DTCP Approved Residential Layout",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹129,00,000",
+        "MARKET_VAL": "₹194,00,000",
+        "CLEAN_TITLE_SCORE": 88,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.943,
+              12.9627
+            ],
+            [
+              79.943,
+              12.9643
+            ],
+            [
+              79.9448,
+              12.9643
+            ],
+            [
+              79.9448,
+              12.9627
+            ],
+            [
+              79.943,
+              12.9627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_71",
+      "properties": {
+        "SURVEY_NO": "71",
+        "SUB_DIV": "",
+        "GAT_NO": "71",
+        "KHASRA_NO": "71",
+        "OWNER": "R. Lakshmi",
+        "OWNER_NAME": "R. Lakshmi",
+        "AREA_ACRE": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "LAND_USE": "Industrial Freehold (SIPCOT Zone)",
+        "LAND_TYPE": "Industrial Freehold (SIPCOT Zone)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹133,00,000",
+        "MARKET_VAL": "₹200,00,000",
+        "CLEAN_TITLE_SCORE": 89,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9448,
+              12.9627
+            ],
+            [
+              79.9448,
+              12.9643
+            ],
+            [
+              79.9466,
+              12.9643
+            ],
+            [
+              79.9466,
+              12.9627
+            ],
+            [
+              79.9448,
+              12.9627
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_tn_sriperumbudur_72",
+      "properties": {
+        "SURVEY_NO": "72",
+        "SUB_DIV": "",
+        "GAT_NO": "72",
+        "KHASRA_NO": "72",
+        "OWNER": "T. Soundararajan",
+        "OWNER_NAME": "T. Soundararajan",
+        "AREA_ACRE": "1 Hectare 00 Are (2.47 Acres)",
+        "EXTENT": "1 Hectare 00 Are (2.47 Acres)",
+        "HOLDING_AREA": "1 Hectare 00 Are (2.47 Acres)",
+        "LAND_USE": "Ryotwari Punjai (Dry Freehold)",
+        "LAND_TYPE": "Ryotwari Punjai (Dry Freehold)",
+        "VILLAGE": "Sriperumbudur",
+        "TALUKA": "Sriperumbudur",
+        "TEHSIL": "Sriperumbudur",
+        "DISTRICT": "Kanchipuram",
+        "STATE": "TN",
+        "GUIDANCE_VAL": "₹136,00,000",
+        "MARKET_VAL": "₹204,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9466,
+              12.9627
+            ],
+            [
+              79.9466,
+              12.9643
+            ],
+            [
+              79.9484,
+              12.9643
+            ],
+            [
+              79.9484,
+              12.9627
+            ],
+            [
+              79.9466,
+              12.9627
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

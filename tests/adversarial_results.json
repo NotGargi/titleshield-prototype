@@ -1,0 +1,21 @@
+{
+  "passed": 9,
+  "failed": 1,
+  "findings": [
+    {
+      "testName": "O(1) docHash Index Utilization",
+      "severity": "MEDIUM",
+      "error": "Query plan shows \"SCAN records\" (Full Table Scan O(N)) instead of \"SEARCH records USING INDEX idx_records_doc_hash\". Caused by lower(doc_hash) functional call in recordsRepository.ts:259."
+    },
+    {
+      "testName": "getRecordByDocHash Miss Latency & Memory Hazard",
+      "severity": "MEDIUM",
+      "error": "When a hash is not found, Step 3 in getRecordByDocHash loads all 500 records into Node heap and iterates with safeJsonParse, causing 19.340ms latency per miss (1168.4x slower than indexed lookup)."
+    },
+    {
+      "testName": "O(1) docHash Lookup Scaling",
+      "severity": "MEDIUM",
+      "error": "docHash lookup is O(N) Table Scan instead of O(1) Index Lookup due to lower(doc_hash) = ? in line 259"
+    }
+  ]
+}

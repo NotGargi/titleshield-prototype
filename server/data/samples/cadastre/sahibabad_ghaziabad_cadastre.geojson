@@ -1,0 +1,3212 @@
+{
+  "type": "FeatureCollection",
+  "name": "sahibabad_ghaziabad_cadastre",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_400",
+      "properties": {
+        "KHASRA_NO": "400",
+        "PLOT_NO": "Plot 100",
+        "SURVEY_NO": "400",
+        "OWNER_NAME": "Rajesh Sharma",
+        "OWNER": "Rajesh Sharma",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹80,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6648
+            ],
+            [
+              77.3589,
+              28.66624
+            ],
+            [
+              77.36034,
+              28.66624
+            ],
+            [
+              77.36034,
+              28.6648
+            ],
+            [
+              77.3589,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_401",
+      "properties": {
+        "KHASRA_NO": "401",
+        "PLOT_NO": "Plot 101",
+        "SURVEY_NO": "401",
+        "OWNER_NAME": "Amit Kumar Gupta",
+        "OWNER": "Amit Kumar Gupta",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹54,00,000",
+        "MARKET_VAL": "₹86,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6648
+            ],
+            [
+              77.3605,
+              28.66624
+            ],
+            [
+              77.36194,
+              28.66624
+            ],
+            [
+              77.36194,
+              28.6648
+            ],
+            [
+              77.3605,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_402",
+      "properties": {
+        "KHASRA_NO": "402",
+        "PLOT_NO": "Plot 102",
+        "SURVEY_NO": "402",
+        "OWNER_NAME": "Vikramaditya Tyagi",
+        "OWNER": "Vikramaditya Tyagi",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹92,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6648
+            ],
+            [
+              77.3621,
+              28.66624
+            ],
+            [
+              77.36354,
+              28.66624
+            ],
+            [
+              77.36354,
+              28.6648
+            ],
+            [
+              77.3621,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_403",
+      "properties": {
+        "KHASRA_NO": "403",
+        "PLOT_NO": "Plot 103",
+        "SURVEY_NO": "403",
+        "OWNER_NAME": "Sanjay Verma",
+        "OWNER": "Sanjay Verma",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹62,00,000",
+        "MARKET_VAL": "₹98,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6648
+            ],
+            [
+              77.3637,
+              28.66624
+            ],
+            [
+              77.36514,
+              28.66624
+            ],
+            [
+              77.36514,
+              28.6648
+            ],
+            [
+              77.3637,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_404",
+      "properties": {
+        "KHASRA_NO": "404",
+        "PLOT_NO": "Plot 104",
+        "SURVEY_NO": "404",
+        "OWNER_NAME": "Pradeep Singhal",
+        "OWNER": "Pradeep Singhal",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹66,00,000",
+        "MARKET_VAL": "₹104,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6648
+            ],
+            [
+              77.3653,
+              28.66624
+            ],
+            [
+              77.36674,
+              28.66624
+            ],
+            [
+              77.36674,
+              28.6648
+            ],
+            [
+              77.3653,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_405",
+      "properties": {
+        "KHASRA_NO": "405",
+        "PLOT_NO": "Plot 105",
+        "SURVEY_NO": "405",
+        "OWNER_NAME": "Mahesh Chandra Agarwal",
+        "OWNER": "Mahesh Chandra Agarwal",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹110,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6648
+            ],
+            [
+              77.3669,
+              28.66624
+            ],
+            [
+              77.36834,
+              28.66624
+            ],
+            [
+              77.36834,
+              28.6648
+            ],
+            [
+              77.3669,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_406",
+      "properties": {
+        "KHASRA_NO": "406",
+        "PLOT_NO": "Plot 106",
+        "SURVEY_NO": "406",
+        "OWNER_NAME": "Satish Yadav",
+        "OWNER": "Satish Yadav",
+        "HOLDING_AREA": "3,000 sq.ft",
+        "EXTENT": "3,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹74,00,000",
+        "MARKET_VAL": "₹116,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6648
+            ],
+            [
+              77.3685,
+              28.66624
+            ],
+            [
+              77.36994,
+              28.66624
+            ],
+            [
+              77.36994,
+              28.6648
+            ],
+            [
+              77.3685,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_407",
+      "properties": {
+        "KHASRA_NO": "407",
+        "PLOT_NO": "Plot 107",
+        "SURVEY_NO": "407",
+        "OWNER_NAME": "Anil Kumar Bansal",
+        "OWNER": "Anil Kumar Bansal",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹78,00,000",
+        "MARKET_VAL": "₹122,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6648
+            ],
+            [
+              77.3701,
+              28.66624
+            ],
+            [
+              77.37154,
+              28.66624
+            ],
+            [
+              77.37154,
+              28.6648
+            ],
+            [
+              77.3701,
+              28.6648
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_408",
+      "properties": {
+        "KHASRA_NO": "408",
+        "PLOT_NO": "Plot 108",
+        "SURVEY_NO": "408",
+        "OWNER_NAME": "Dinesh Kashyap",
+        "OWNER": "Dinesh Kashyap",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹82,00,000",
+        "MARKET_VAL": "₹128,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6664
+            ],
+            [
+              77.3589,
+              28.66784
+            ],
+            [
+              77.36034,
+              28.66784
+            ],
+            [
+              77.36034,
+              28.6664
+            ],
+            [
+              77.3589,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_409",
+      "properties": {
+        "KHASRA_NO": "409",
+        "PLOT_NO": "Plot 109",
+        "SURVEY_NO": "409",
+        "OWNER_NAME": "Rajiv Saxena",
+        "OWNER": "Rajiv Saxena",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹86,00,000",
+        "MARKET_VAL": "₹134,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6664
+            ],
+            [
+              77.3605,
+              28.66784
+            ],
+            [
+              77.36194,
+              28.66784
+            ],
+            [
+              77.36194,
+              28.6664
+            ],
+            [
+              77.3605,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_410",
+      "properties": {
+        "KHASRA_NO": "410",
+        "PLOT_NO": "Plot 110",
+        "SURVEY_NO": "410",
+        "OWNER_NAME": "Manoj Pathak",
+        "OWNER": "Manoj Pathak",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹140,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6664
+            ],
+            [
+              77.3621,
+              28.66784
+            ],
+            [
+              77.36354,
+              28.66784
+            ],
+            [
+              77.36354,
+              28.6664
+            ],
+            [
+              77.3621,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_411",
+      "properties": {
+        "KHASRA_NO": "411",
+        "PLOT_NO": "Plot 111",
+        "SURVEY_NO": "411",
+        "OWNER_NAME": "Sunil Kumar Mishra",
+        "OWNER": "Sunil Kumar Mishra",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹94,00,000",
+        "MARKET_VAL": "₹146,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6664
+            ],
+            [
+              77.3637,
+              28.66784
+            ],
+            [
+              77.36514,
+              28.66784
+            ],
+            [
+              77.36514,
+              28.6664
+            ],
+            [
+              77.3637,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_412",
+      "properties": {
+        "KHASRA_NO": "412",
+        "PLOT_NO": "Plot 112",
+        "SURVEY_NO": "412",
+        "OWNER_NAME": "Pankaj Shrivastava",
+        "OWNER": "Pankaj Shrivastava",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹98,00,000",
+        "MARKET_VAL": "₹152,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6664
+            ],
+            [
+              77.3653,
+              28.66784
+            ],
+            [
+              77.36674,
+              28.66784
+            ],
+            [
+              77.36674,
+              28.6664
+            ],
+            [
+              77.3653,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_413",
+      "properties": {
+        "KHASRA_NO": "413",
+        "PLOT_NO": "Plot 113",
+        "SURVEY_NO": "413",
+        "OWNER_NAME": "Vipin Goel",
+        "OWNER": "Vipin Goel",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹102,00,000",
+        "MARKET_VAL": "₹158,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6664
+            ],
+            [
+              77.3669,
+              28.66784
+            ],
+            [
+              77.36834,
+              28.66784
+            ],
+            [
+              77.36834,
+              28.6664
+            ],
+            [
+              77.3669,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_414",
+      "properties": {
+        "KHASRA_NO": "414",
+        "PLOT_NO": "Plot 114",
+        "SURVEY_NO": "414",
+        "OWNER_NAME": "Ashish Rastogi",
+        "OWNER": "Ashish Rastogi",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹106,00,000",
+        "MARKET_VAL": "₹164,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6664
+            ],
+            [
+              77.3685,
+              28.66784
+            ],
+            [
+              77.36994,
+              28.66784
+            ],
+            [
+              77.36994,
+              28.6664
+            ],
+            [
+              77.3685,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_415",
+      "properties": {
+        "KHASRA_NO": "415",
+        "PLOT_NO": "Plot 115",
+        "SURVEY_NO": "415",
+        "OWNER_NAME": "Neeraj Chaudhary",
+        "OWNER": "Neeraj Chaudhary",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹80,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6664
+            ],
+            [
+              77.3701,
+              28.66784
+            ],
+            [
+              77.37154,
+              28.66784
+            ],
+            [
+              77.37154,
+              28.6664
+            ],
+            [
+              77.3701,
+              28.6664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_416",
+      "properties": {
+        "KHASRA_NO": "416",
+        "PLOT_NO": "Plot 116",
+        "SURVEY_NO": "416",
+        "OWNER_NAME": "Rajesh Sharma",
+        "OWNER": "Rajesh Sharma",
+        "HOLDING_AREA": "3,000 sq.ft",
+        "EXTENT": "3,000 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹54,00,000",
+        "MARKET_VAL": "₹86,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.668
+            ],
+            [
+              77.3589,
+              28.66944
+            ],
+            [
+              77.36034,
+              28.66944
+            ],
+            [
+              77.36034,
+              28.668
+            ],
+            [
+              77.3589,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_417",
+      "properties": {
+        "KHASRA_NO": "417",
+        "PLOT_NO": "Plot 117",
+        "SURVEY_NO": "417",
+        "OWNER_NAME": "Amit Kumar Gupta",
+        "OWNER": "Amit Kumar Gupta",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹92,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.668
+            ],
+            [
+              77.3605,
+              28.66944
+            ],
+            [
+              77.36194,
+              28.66944
+            ],
+            [
+              77.36194,
+              28.668
+            ],
+            [
+              77.3605,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_418",
+      "properties": {
+        "KHASRA_NO": "418",
+        "PLOT_NO": "Plot 118",
+        "SURVEY_NO": "418",
+        "OWNER_NAME": "Vikramaditya Tyagi",
+        "OWNER": "Vikramaditya Tyagi",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹62,00,000",
+        "MARKET_VAL": "₹98,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.668
+            ],
+            [
+              77.3621,
+              28.66944
+            ],
+            [
+              77.36354,
+              28.66944
+            ],
+            [
+              77.36354,
+              28.668
+            ],
+            [
+              77.3621,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_419",
+      "properties": {
+        "KHASRA_NO": "419",
+        "PLOT_NO": "Plot 119",
+        "SURVEY_NO": "419",
+        "OWNER_NAME": "Sanjay Verma",
+        "OWNER": "Sanjay Verma",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹66,00,000",
+        "MARKET_VAL": "₹104,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.668
+            ],
+            [
+              77.3637,
+              28.66944
+            ],
+            [
+              77.36514,
+              28.66944
+            ],
+            [
+              77.36514,
+              28.668
+            ],
+            [
+              77.3637,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_420",
+      "properties": {
+        "KHASRA_NO": "420",
+        "PLOT_NO": "Plot 120",
+        "SURVEY_NO": "420",
+        "OWNER_NAME": "Pradeep Singhal",
+        "OWNER": "Pradeep Singhal",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹110,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.668
+            ],
+            [
+              77.3653,
+              28.66944
+            ],
+            [
+              77.36674,
+              28.66944
+            ],
+            [
+              77.36674,
+              28.668
+            ],
+            [
+              77.3653,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_421",
+      "properties": {
+        "KHASRA_NO": "421",
+        "PLOT_NO": "Plot 121",
+        "SURVEY_NO": "421",
+        "OWNER_NAME": "Mahesh Chandra Agarwal",
+        "OWNER": "Mahesh Chandra Agarwal",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹74,00,000",
+        "MARKET_VAL": "₹116,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.668
+            ],
+            [
+              77.3669,
+              28.66944
+            ],
+            [
+              77.36834,
+              28.66944
+            ],
+            [
+              77.36834,
+              28.668
+            ],
+            [
+              77.3669,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_422",
+      "properties": {
+        "KHASRA_NO": "422",
+        "PLOT_NO": "Plot 122",
+        "SURVEY_NO": "422",
+        "OWNER_NAME": "Satish Yadav",
+        "OWNER": "Satish Yadav",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹78,00,000",
+        "MARKET_VAL": "₹122,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.668
+            ],
+            [
+              77.3685,
+              28.66944
+            ],
+            [
+              77.36994,
+              28.66944
+            ],
+            [
+              77.36994,
+              28.668
+            ],
+            [
+              77.3685,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_423",
+      "properties": {
+        "KHASRA_NO": "423",
+        "PLOT_NO": "Plot 123",
+        "SURVEY_NO": "423",
+        "OWNER_NAME": "Anil Kumar Bansal",
+        "OWNER": "Anil Kumar Bansal",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹82,00,000",
+        "MARKET_VAL": "₹128,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.668
+            ],
+            [
+              77.3701,
+              28.66944
+            ],
+            [
+              77.37154,
+              28.66944
+            ],
+            [
+              77.37154,
+              28.668
+            ],
+            [
+              77.3701,
+              28.668
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_424",
+      "properties": {
+        "KHASRA_NO": "424",
+        "PLOT_NO": "Plot 124",
+        "SURVEY_NO": "424",
+        "OWNER_NAME": "Dinesh Kashyap",
+        "OWNER": "Dinesh Kashyap",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹86,00,000",
+        "MARKET_VAL": "₹134,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6696
+            ],
+            [
+              77.3589,
+              28.67104
+            ],
+            [
+              77.36034,
+              28.67104
+            ],
+            [
+              77.36034,
+              28.6696
+            ],
+            [
+              77.3589,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_425",
+      "properties": {
+        "KHASRA_NO": "425",
+        "PLOT_NO": "Plot 125",
+        "SURVEY_NO": "425",
+        "OWNER_NAME": "Rajiv Saxena",
+        "OWNER": "Rajiv Saxena",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹140,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6696
+            ],
+            [
+              77.3605,
+              28.67104
+            ],
+            [
+              77.36194,
+              28.67104
+            ],
+            [
+              77.36194,
+              28.6696
+            ],
+            [
+              77.3605,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_426",
+      "properties": {
+        "KHASRA_NO": "426",
+        "PLOT_NO": "Plot 126",
+        "SURVEY_NO": "426",
+        "OWNER_NAME": "Manoj Pathak",
+        "OWNER": "Manoj Pathak",
+        "HOLDING_AREA": "3,000 sq.ft",
+        "EXTENT": "3,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹94,00,000",
+        "MARKET_VAL": "₹146,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6696
+            ],
+            [
+              77.3621,
+              28.67104
+            ],
+            [
+              77.36354,
+              28.67104
+            ],
+            [
+              77.36354,
+              28.6696
+            ],
+            [
+              77.3621,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_427",
+      "properties": {
+        "KHASRA_NO": "427",
+        "PLOT_NO": "Plot 127",
+        "SURVEY_NO": "427",
+        "OWNER_NAME": "Sunil Kumar Mishra",
+        "OWNER": "Sunil Kumar Mishra",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹98,00,000",
+        "MARKET_VAL": "₹152,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6696
+            ],
+            [
+              77.3637,
+              28.67104
+            ],
+            [
+              77.36514,
+              28.67104
+            ],
+            [
+              77.36514,
+              28.6696
+            ],
+            [
+              77.3637,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_428",
+      "properties": {
+        "KHASRA_NO": "428",
+        "PLOT_NO": "Plot 128",
+        "SURVEY_NO": "428",
+        "OWNER_NAME": "Pankaj Shrivastava",
+        "OWNER": "Pankaj Shrivastava",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹102,00,000",
+        "MARKET_VAL": "₹158,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6696
+            ],
+            [
+              77.3653,
+              28.67104
+            ],
+            [
+              77.36674,
+              28.67104
+            ],
+            [
+              77.36674,
+              28.6696
+            ],
+            [
+              77.3653,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_429",
+      "properties": {
+        "KHASRA_NO": "429",
+        "PLOT_NO": "Plot 129",
+        "SURVEY_NO": "429",
+        "OWNER_NAME": "Vipin Goel",
+        "OWNER": "Vipin Goel",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹106,00,000",
+        "MARKET_VAL": "₹164,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6696
+            ],
+            [
+              77.3669,
+              28.67104
+            ],
+            [
+              77.36834,
+              28.67104
+            ],
+            [
+              77.36834,
+              28.6696
+            ],
+            [
+              77.3669,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_430",
+      "properties": {
+        "KHASRA_NO": "430",
+        "PLOT_NO": "Plot 130",
+        "SURVEY_NO": "430",
+        "OWNER_NAME": "Ashish Rastogi",
+        "OWNER": "Ashish Rastogi",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹80,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6696
+            ],
+            [
+              77.3685,
+              28.67104
+            ],
+            [
+              77.36994,
+              28.67104
+            ],
+            [
+              77.36994,
+              28.6696
+            ],
+            [
+              77.3685,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_431",
+      "properties": {
+        "KHASRA_NO": "431",
+        "PLOT_NO": "Plot 131",
+        "SURVEY_NO": "431",
+        "OWNER_NAME": "Neeraj Chaudhary",
+        "OWNER": "Neeraj Chaudhary",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹54,00,000",
+        "MARKET_VAL": "₹86,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6696
+            ],
+            [
+              77.3701,
+              28.67104
+            ],
+            [
+              77.37154,
+              28.67104
+            ],
+            [
+              77.37154,
+              28.6696
+            ],
+            [
+              77.3701,
+              28.6696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_432",
+      "properties": {
+        "KHASRA_NO": "432",
+        "PLOT_NO": "Plot 132",
+        "SURVEY_NO": "432",
+        "OWNER_NAME": "Rajesh Sharma",
+        "OWNER": "Rajesh Sharma",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹92,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6712
+            ],
+            [
+              77.3589,
+              28.67264
+            ],
+            [
+              77.36034,
+              28.67264
+            ],
+            [
+              77.36034,
+              28.6712
+            ],
+            [
+              77.3589,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_433",
+      "properties": {
+        "KHASRA_NO": "433",
+        "PLOT_NO": "Plot 133",
+        "SURVEY_NO": "433",
+        "OWNER_NAME": "Amit Kumar Gupta",
+        "OWNER": "Amit Kumar Gupta",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹62,00,000",
+        "MARKET_VAL": "₹98,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6712
+            ],
+            [
+              77.3605,
+              28.67264
+            ],
+            [
+              77.36194,
+              28.67264
+            ],
+            [
+              77.36194,
+              28.6712
+            ],
+            [
+              77.3605,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_434",
+      "properties": {
+        "KHASRA_NO": "434",
+        "PLOT_NO": "Plot 134",
+        "SURVEY_NO": "434",
+        "OWNER_NAME": "Vikramaditya Tyagi",
+        "OWNER": "Vikramaditya Tyagi",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹66,00,000",
+        "MARKET_VAL": "₹104,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6712
+            ],
+            [
+              77.3621,
+              28.67264
+            ],
+            [
+              77.36354,
+              28.67264
+            ],
+            [
+              77.36354,
+              28.6712
+            ],
+            [
+              77.3621,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_435",
+      "properties": {
+        "KHASRA_NO": "435",
+        "PLOT_NO": "Plot 135",
+        "SURVEY_NO": "435",
+        "OWNER_NAME": "Sanjay Verma",
+        "OWNER": "Sanjay Verma",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹110,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6712
+            ],
+            [
+              77.3637,
+              28.67264
+            ],
+            [
+              77.36514,
+              28.67264
+            ],
+            [
+              77.36514,
+              28.6712
+            ],
+            [
+              77.3637,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_112",
+      "properties": {
+        "KHASRA_NO": "112",
+        "PLOT_NO": "Plot 112",
+        "SURVEY_NO": "112",
+        "OWNER_NAME": "Rajesh Sharma",
+        "OWNER": "Rajesh Sharma",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹85,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6712
+            ],
+            [
+              77.3653,
+              28.67264
+            ],
+            [
+              77.36674,
+              28.67264
+            ],
+            [
+              77.36674,
+              28.6712
+            ],
+            [
+              77.3653,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_437",
+      "properties": {
+        "KHASRA_NO": "437",
+        "PLOT_NO": "Plot 137",
+        "SURVEY_NO": "437",
+        "OWNER_NAME": "Mahesh Chandra Agarwal",
+        "OWNER": "Mahesh Chandra Agarwal",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹78,00,000",
+        "MARKET_VAL": "₹122,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6712
+            ],
+            [
+              77.3669,
+              28.67264
+            ],
+            [
+              77.36834,
+              28.67264
+            ],
+            [
+              77.36834,
+              28.6712
+            ],
+            [
+              77.3669,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_438",
+      "properties": {
+        "KHASRA_NO": "438",
+        "PLOT_NO": "Plot 138",
+        "SURVEY_NO": "438",
+        "OWNER_NAME": "Satish Yadav",
+        "OWNER": "Satish Yadav",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹82,00,000",
+        "MARKET_VAL": "₹128,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6712
+            ],
+            [
+              77.3685,
+              28.67264
+            ],
+            [
+              77.36994,
+              28.67264
+            ],
+            [
+              77.36994,
+              28.6712
+            ],
+            [
+              77.3685,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_439",
+      "properties": {
+        "KHASRA_NO": "439",
+        "PLOT_NO": "Plot 139",
+        "SURVEY_NO": "439",
+        "OWNER_NAME": "Anil Kumar Bansal",
+        "OWNER": "Anil Kumar Bansal",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹86,00,000",
+        "MARKET_VAL": "₹134,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6712
+            ],
+            [
+              77.3701,
+              28.67264
+            ],
+            [
+              77.37154,
+              28.67264
+            ],
+            [
+              77.37154,
+              28.6712
+            ],
+            [
+              77.3701,
+              28.6712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_440",
+      "properties": {
+        "KHASRA_NO": "440",
+        "PLOT_NO": "Plot 140",
+        "SURVEY_NO": "440",
+        "OWNER_NAME": "Dinesh Kashyap",
+        "OWNER": "Dinesh Kashyap",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹140,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6728
+            ],
+            [
+              77.3589,
+              28.67424
+            ],
+            [
+              77.36034,
+              28.67424
+            ],
+            [
+              77.36034,
+              28.6728
+            ],
+            [
+              77.3589,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_441",
+      "properties": {
+        "KHASRA_NO": "441",
+        "PLOT_NO": "Plot 141",
+        "SURVEY_NO": "441",
+        "OWNER_NAME": "Rajiv Saxena",
+        "OWNER": "Rajiv Saxena",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹94,00,000",
+        "MARKET_VAL": "₹146,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6728
+            ],
+            [
+              77.3605,
+              28.67424
+            ],
+            [
+              77.36194,
+              28.67424
+            ],
+            [
+              77.36194,
+              28.6728
+            ],
+            [
+              77.3605,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_442",
+      "properties": {
+        "KHASRA_NO": "442",
+        "PLOT_NO": "Plot 142",
+        "SURVEY_NO": "442",
+        "OWNER_NAME": "Manoj Pathak",
+        "OWNER": "Manoj Pathak",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹98,00,000",
+        "MARKET_VAL": "₹152,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6728
+            ],
+            [
+              77.3621,
+              28.67424
+            ],
+            [
+              77.36354,
+              28.67424
+            ],
+            [
+              77.36354,
+              28.6728
+            ],
+            [
+              77.3621,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_443",
+      "properties": {
+        "KHASRA_NO": "443",
+        "PLOT_NO": "Plot 143",
+        "SURVEY_NO": "443",
+        "OWNER_NAME": "Sunil Kumar Mishra",
+        "OWNER": "Sunil Kumar Mishra",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹102,00,000",
+        "MARKET_VAL": "₹158,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6728
+            ],
+            [
+              77.3637,
+              28.67424
+            ],
+            [
+              77.36514,
+              28.67424
+            ],
+            [
+              77.36514,
+              28.6728
+            ],
+            [
+              77.3637,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_444",
+      "properties": {
+        "KHASRA_NO": "444",
+        "PLOT_NO": "Plot 144",
+        "SURVEY_NO": "444",
+        "OWNER_NAME": "Pankaj Shrivastava",
+        "OWNER": "Pankaj Shrivastava",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹106,00,000",
+        "MARKET_VAL": "₹164,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6728
+            ],
+            [
+              77.3653,
+              28.67424
+            ],
+            [
+              77.36674,
+              28.67424
+            ],
+            [
+              77.36674,
+              28.6728
+            ],
+            [
+              77.3653,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_445",
+      "properties": {
+        "KHASRA_NO": "445",
+        "PLOT_NO": "Plot 145",
+        "SURVEY_NO": "445",
+        "OWNER_NAME": "Vipin Goel",
+        "OWNER": "Vipin Goel",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹80,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6728
+            ],
+            [
+              77.3669,
+              28.67424
+            ],
+            [
+              77.36834,
+              28.67424
+            ],
+            [
+              77.36834,
+              28.6728
+            ],
+            [
+              77.3669,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_446",
+      "properties": {
+        "KHASRA_NO": "446",
+        "PLOT_NO": "Plot 146",
+        "SURVEY_NO": "446",
+        "OWNER_NAME": "Ashish Rastogi",
+        "OWNER": "Ashish Rastogi",
+        "HOLDING_AREA": "3,000 sq.ft",
+        "EXTENT": "3,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹54,00,000",
+        "MARKET_VAL": "₹86,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6728
+            ],
+            [
+              77.3685,
+              28.67424
+            ],
+            [
+              77.36994,
+              28.67424
+            ],
+            [
+              77.36994,
+              28.6728
+            ],
+            [
+              77.3685,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_447",
+      "properties": {
+        "KHASRA_NO": "447",
+        "PLOT_NO": "Plot 147",
+        "SURVEY_NO": "447",
+        "OWNER_NAME": "Neeraj Chaudhary",
+        "OWNER": "Neeraj Chaudhary",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹92,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6728
+            ],
+            [
+              77.3701,
+              28.67424
+            ],
+            [
+              77.37154,
+              28.67424
+            ],
+            [
+              77.37154,
+              28.6728
+            ],
+            [
+              77.3701,
+              28.6728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_448",
+      "properties": {
+        "KHASRA_NO": "448",
+        "PLOT_NO": "Plot 148",
+        "SURVEY_NO": "448",
+        "OWNER_NAME": "Rajesh Sharma",
+        "OWNER": "Rajesh Sharma",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹62,00,000",
+        "MARKET_VAL": "₹98,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.6744
+            ],
+            [
+              77.3589,
+              28.67584
+            ],
+            [
+              77.36034,
+              28.67584
+            ],
+            [
+              77.36034,
+              28.6744
+            ],
+            [
+              77.3589,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_449",
+      "properties": {
+        "KHASRA_NO": "449",
+        "PLOT_NO": "Plot 149",
+        "SURVEY_NO": "449",
+        "OWNER_NAME": "Amit Kumar Gupta",
+        "OWNER": "Amit Kumar Gupta",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹66,00,000",
+        "MARKET_VAL": "₹104,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.6744
+            ],
+            [
+              77.3605,
+              28.67584
+            ],
+            [
+              77.36194,
+              28.67584
+            ],
+            [
+              77.36194,
+              28.6744
+            ],
+            [
+              77.3605,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_450",
+      "properties": {
+        "KHASRA_NO": "450",
+        "PLOT_NO": "Plot 150",
+        "SURVEY_NO": "450",
+        "OWNER_NAME": "Vikramaditya Tyagi",
+        "OWNER": "Vikramaditya Tyagi",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹110,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.6744
+            ],
+            [
+              77.3621,
+              28.67584
+            ],
+            [
+              77.36354,
+              28.67584
+            ],
+            [
+              77.36354,
+              28.6744
+            ],
+            [
+              77.3621,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_451",
+      "properties": {
+        "KHASRA_NO": "451",
+        "PLOT_NO": "Plot 151",
+        "SURVEY_NO": "451",
+        "OWNER_NAME": "Sanjay Verma",
+        "OWNER": "Sanjay Verma",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹74,00,000",
+        "MARKET_VAL": "₹116,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.6744
+            ],
+            [
+              77.3637,
+              28.67584
+            ],
+            [
+              77.36514,
+              28.67584
+            ],
+            [
+              77.36514,
+              28.6744
+            ],
+            [
+              77.3637,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_452",
+      "properties": {
+        "KHASRA_NO": "452",
+        "PLOT_NO": "Plot 152",
+        "SURVEY_NO": "452",
+        "OWNER_NAME": "Pradeep Singhal",
+        "OWNER": "Pradeep Singhal",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹78,00,000",
+        "MARKET_VAL": "₹122,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.6744
+            ],
+            [
+              77.3653,
+              28.67584
+            ],
+            [
+              77.36674,
+              28.67584
+            ],
+            [
+              77.36674,
+              28.6744
+            ],
+            [
+              77.3653,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_453",
+      "properties": {
+        "KHASRA_NO": "453",
+        "PLOT_NO": "Plot 153",
+        "SURVEY_NO": "453",
+        "OWNER_NAME": "Mahesh Chandra Agarwal",
+        "OWNER": "Mahesh Chandra Agarwal",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹82,00,000",
+        "MARKET_VAL": "₹128,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.6744
+            ],
+            [
+              77.3669,
+              28.67584
+            ],
+            [
+              77.36834,
+              28.67584
+            ],
+            [
+              77.36834,
+              28.6744
+            ],
+            [
+              77.3669,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_454",
+      "properties": {
+        "KHASRA_NO": "454",
+        "PLOT_NO": "Plot 154",
+        "SURVEY_NO": "454",
+        "OWNER_NAME": "Satish Yadav",
+        "OWNER": "Satish Yadav",
+        "HOLDING_AREA": "2,600 sq.ft",
+        "EXTENT": "2,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹86,00,000",
+        "MARKET_VAL": "₹134,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.6744
+            ],
+            [
+              77.3685,
+              28.67584
+            ],
+            [
+              77.36994,
+              28.67584
+            ],
+            [
+              77.36994,
+              28.6744
+            ],
+            [
+              77.3685,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_455",
+      "properties": {
+        "KHASRA_NO": "455",
+        "PLOT_NO": "Plot 155",
+        "SURVEY_NO": "455",
+        "OWNER_NAME": "Anil Kumar Bansal",
+        "OWNER": "Anil Kumar Bansal",
+        "HOLDING_AREA": "2,800 sq.ft",
+        "EXTENT": "2,800 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹140,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.6744
+            ],
+            [
+              77.3701,
+              28.67584
+            ],
+            [
+              77.37154,
+              28.67584
+            ],
+            [
+              77.37154,
+              28.6744
+            ],
+            [
+              77.3701,
+              28.6744
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_456",
+      "properties": {
+        "KHASRA_NO": "456",
+        "PLOT_NO": "Plot 156",
+        "SURVEY_NO": "456",
+        "OWNER_NAME": "Dinesh Kashyap",
+        "OWNER": "Dinesh Kashyap",
+        "HOLDING_AREA": "3,000 sq.ft",
+        "EXTENT": "3,000 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹94,00,000",
+        "MARKET_VAL": "₹146,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3589,
+              28.676
+            ],
+            [
+              77.3589,
+              28.67744
+            ],
+            [
+              77.36034,
+              28.67744
+            ],
+            [
+              77.36034,
+              28.676
+            ],
+            [
+              77.3589,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_457",
+      "properties": {
+        "KHASRA_NO": "457",
+        "PLOT_NO": "Plot 157",
+        "SURVEY_NO": "457",
+        "OWNER_NAME": "Rajiv Saxena",
+        "OWNER": "Rajiv Saxena",
+        "HOLDING_AREA": "3,200 sq.ft",
+        "EXTENT": "3,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹98,00,000",
+        "MARKET_VAL": "₹152,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3605,
+              28.676
+            ],
+            [
+              77.3605,
+              28.67744
+            ],
+            [
+              77.36194,
+              28.67744
+            ],
+            [
+              77.36194,
+              28.676
+            ],
+            [
+              77.3605,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_458",
+      "properties": {
+        "KHASRA_NO": "458",
+        "PLOT_NO": "Plot 158",
+        "SURVEY_NO": "458",
+        "OWNER_NAME": "Manoj Pathak",
+        "OWNER": "Manoj Pathak",
+        "HOLDING_AREA": "3,400 sq.ft",
+        "EXTENT": "3,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹102,00,000",
+        "MARKET_VAL": "₹158,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3621,
+              28.676
+            ],
+            [
+              77.3621,
+              28.67744
+            ],
+            [
+              77.36354,
+              28.67744
+            ],
+            [
+              77.36354,
+              28.676
+            ],
+            [
+              77.3621,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_459",
+      "properties": {
+        "KHASRA_NO": "459",
+        "PLOT_NO": "Plot 159",
+        "SURVEY_NO": "459",
+        "OWNER_NAME": "Sunil Kumar Mishra",
+        "OWNER": "Sunil Kumar Mishra",
+        "HOLDING_AREA": "3,600 sq.ft",
+        "EXTENT": "3,600 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹106,00,000",
+        "MARKET_VAL": "₹164,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3637,
+              28.676
+            ],
+            [
+              77.3637,
+              28.67744
+            ],
+            [
+              77.36514,
+              28.67744
+            ],
+            [
+              77.36514,
+              28.676
+            ],
+            [
+              77.3637,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_460",
+      "properties": {
+        "KHASRA_NO": "460",
+        "PLOT_NO": "Plot 160",
+        "SURVEY_NO": "460",
+        "OWNER_NAME": "Pankaj Shrivastava",
+        "OWNER": "Pankaj Shrivastava",
+        "HOLDING_AREA": "1,800 sq.ft",
+        "EXTENT": "1,800 sq.ft",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹80,00,000",
+        "CLEAN_TITLE_SCORE": 90,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3653,
+              28.676
+            ],
+            [
+              77.3653,
+              28.67744
+            ],
+            [
+              77.36674,
+              28.67744
+            ],
+            [
+              77.36674,
+              28.676
+            ],
+            [
+              77.3653,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_461",
+      "properties": {
+        "KHASRA_NO": "461",
+        "PLOT_NO": "Plot 161",
+        "SURVEY_NO": "461",
+        "OWNER_NAME": "Vipin Goel",
+        "OWNER": "Vipin Goel",
+        "HOLDING_AREA": "2,000 sq.ft",
+        "EXTENT": "2,000 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹54,00,000",
+        "MARKET_VAL": "₹86,00,000",
+        "CLEAN_TITLE_SCORE": 91,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3669,
+              28.676
+            ],
+            [
+              77.3669,
+              28.67744
+            ],
+            [
+              77.36834,
+              28.67744
+            ],
+            [
+              77.36834,
+              28.676
+            ],
+            [
+              77.3669,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_462",
+      "properties": {
+        "KHASRA_NO": "462",
+        "PLOT_NO": "Plot 162",
+        "SURVEY_NO": "462",
+        "OWNER_NAME": "Ashish Rastogi",
+        "OWNER": "Ashish Rastogi",
+        "HOLDING_AREA": "2,200 sq.ft",
+        "EXTENT": "2,200 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹92,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3685,
+              28.676
+            ],
+            [
+              77.3685,
+              28.67744
+            ],
+            [
+              77.36994,
+              28.67744
+            ],
+            [
+              77.36994,
+              28.676
+            ],
+            [
+              77.3685,
+              28.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_up_sahibabad_sahibabad_463",
+      "properties": {
+        "KHASRA_NO": "463",
+        "PLOT_NO": "Plot 163",
+        "SURVEY_NO": "463",
+        "OWNER_NAME": "Neeraj Chaudhary",
+        "OWNER": "Neeraj Chaudhary",
+        "HOLDING_AREA": "2,400 sq.ft",
+        "EXTENT": "2,400 sq.ft",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Sahibabad",
+        "TEHSIL": "Sahibabad",
+        "TALUKA": "Sahibabad",
+        "DISTRICT": "Ghaziabad",
+        "STATE": "UP",
+        "GUIDANCE_VAL": "₹62,00,000",
+        "MARKET_VAL": "₹98,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3701,
+              28.676
+            ],
+            [
+              77.3701,
+              28.67744
+            ],
+            [
+              77.37154,
+              28.67744
+            ],
+            [
+              77.37154,
+              28.676
+            ],
+            [
+              77.3701,
+              28.676
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

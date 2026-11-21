@@ -1,0 +1,3148 @@
+{
+  "type": "FeatureCollection",
+  "name": "haveli_wagholi_cadastre",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_140",
+      "properties": {
+        "SURVEY_NO": "140",
+        "SUB_DIV": "",
+        "GAT_NO": "140",
+        "OWNER": "Ramesh Kulkarni",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹45,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5721
+            ],
+            [
+              73.9751,
+              18.573756
+            ],
+            [
+              73.976756,
+              18.573756
+            ],
+            [
+              73.976756,
+              18.5721
+            ],
+            [
+              73.9751,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_141",
+      "properties": {
+        "SURVEY_NO": "141",
+        "SUB_DIV": "",
+        "GAT_NO": "141",
+        "OWNER": "Suresh Patil",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹71,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5721
+            ],
+            [
+              73.9769,
+              18.573756
+            ],
+            [
+              73.978556,
+              18.573756
+            ],
+            [
+              73.978556,
+              18.5721
+            ],
+            [
+              73.9769,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_142",
+      "properties": {
+        "SURVEY_NO": "142",
+        "SUB_DIV": "",
+        "GAT_NO": "142",
+        "OWNER": "Vasantrao Deshmukh",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹77,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5721
+            ],
+            [
+              73.9787,
+              18.573756
+            ],
+            [
+              73.980356,
+              18.573756
+            ],
+            [
+              73.980356,
+              18.5721
+            ],
+            [
+              73.9787,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_143",
+      "properties": {
+        "SURVEY_NO": "143",
+        "SUB_DIV": "",
+        "GAT_NO": "143",
+        "OWNER": "Ananda Jagtap",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹83,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5721
+            ],
+            [
+              73.9805,
+              18.573756
+            ],
+            [
+              73.982156,
+              18.573756
+            ],
+            [
+              73.982156,
+              18.5721
+            ],
+            [
+              73.9805,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_144",
+      "properties": {
+        "SURVEY_NO": "144",
+        "SUB_DIV": "",
+        "GAT_NO": "144",
+        "OWNER": "Dattatray Shinde",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹65,00,000",
+        "MARKET_VAL": "₹89,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5721
+            ],
+            [
+              73.9823,
+              18.573756
+            ],
+            [
+              73.983956,
+              18.573756
+            ],
+            [
+              73.983956,
+              18.5721
+            ],
+            [
+              73.9823,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_145",
+      "properties": {
+        "SURVEY_NO": "145",
+        "SUB_DIV": "",
+        "GAT_NO": "145",
+        "OWNER": "Babanrao Waghmare",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹95,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5721
+            ],
+            [
+              73.9841,
+              18.573756
+            ],
+            [
+              73.985756,
+              18.573756
+            ],
+            [
+              73.985756,
+              18.5721
+            ],
+            [
+              73.9841,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_146",
+      "properties": {
+        "SURVEY_NO": "146",
+        "SUB_DIV": "",
+        "GAT_NO": "146",
+        "OWNER": "Santosh Gaikwad",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹75,00,000",
+        "MARKET_VAL": "₹101,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5721
+            ],
+            [
+              73.9859,
+              18.573756
+            ],
+            [
+              73.987556,
+              18.573756
+            ],
+            [
+              73.987556,
+              18.5721
+            ],
+            [
+              73.9859,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_147",
+      "properties": {
+        "SURVEY_NO": "147",
+        "SUB_DIV": "",
+        "GAT_NO": "147",
+        "OWNER": "Pandurang More",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹107,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5721
+            ],
+            [
+              73.9877,
+              18.573756
+            ],
+            [
+              73.989356,
+              18.573756
+            ],
+            [
+              73.989356,
+              18.5721
+            ],
+            [
+              73.9877,
+              18.5721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_148",
+      "properties": {
+        "SURVEY_NO": "148",
+        "SUB_DIV": "",
+        "GAT_NO": "148",
+        "OWNER": "Eknath Jadhav",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹85,00,000",
+        "MARKET_VAL": "₹113,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5739
+            ],
+            [
+              73.9751,
+              18.575556
+            ],
+            [
+              73.976756,
+              18.575556
+            ],
+            [
+              73.976756,
+              18.5739
+            ],
+            [
+              73.9751,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_149",
+      "properties": {
+        "SURVEY_NO": "149",
+        "SUB_DIV": "",
+        "GAT_NO": "149",
+        "OWNER": "Sambhaji Bhosale",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹119,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5739
+            ],
+            [
+              73.9769,
+              18.575556
+            ],
+            [
+              73.978556,
+              18.575556
+            ],
+            [
+              73.978556,
+              18.5739
+            ],
+            [
+              73.9769,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_150",
+      "properties": {
+        "SURVEY_NO": "150",
+        "SUB_DIV": "",
+        "GAT_NO": "150",
+        "OWNER": "Kashinath Pawar",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹125,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5739
+            ],
+            [
+              73.9787,
+              18.575556
+            ],
+            [
+              73.980356,
+              18.575556
+            ],
+            [
+              73.980356,
+              18.5739
+            ],
+            [
+              73.9787,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_151",
+      "properties": {
+        "SURVEY_NO": "151",
+        "SUB_DIV": "",
+        "GAT_NO": "151",
+        "OWNER": "Namdeo Chavan",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹100,00,000",
+        "MARKET_VAL": "₹131,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5739
+            ],
+            [
+              73.9805,
+              18.575556
+            ],
+            [
+              73.982156,
+              18.575556
+            ],
+            [
+              73.982156,
+              18.5739
+            ],
+            [
+              73.9805,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_152",
+      "properties": {
+        "SURVEY_NO": "152",
+        "SUB_DIV": "",
+        "GAT_NO": "152",
+        "OWNER": "Tukaram Salunke",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹45,00,000",
+        "MARKET_VAL": "₹137,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5739
+            ],
+            [
+              73.9823,
+              18.575556
+            ],
+            [
+              73.983956,
+              18.575556
+            ],
+            [
+              73.983956,
+              18.5739
+            ],
+            [
+              73.9823,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_153",
+      "properties": {
+        "SURVEY_NO": "153",
+        "SUB_DIV": "",
+        "GAT_NO": "153",
+        "OWNER": "Balasaheb Kadam",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹143,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5739
+            ],
+            [
+              73.9841,
+              18.575556
+            ],
+            [
+              73.985756,
+              18.575556
+            ],
+            [
+              73.985756,
+              18.5739
+            ],
+            [
+              73.9841,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_154",
+      "properties": {
+        "SURVEY_NO": "154",
+        "SUB_DIV": "",
+        "GAT_NO": "154",
+        "OWNER": "Vitthal Mohite",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹149,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5739
+            ],
+            [
+              73.9859,
+              18.575556
+            ],
+            [
+              73.987556,
+              18.575556
+            ],
+            [
+              73.987556,
+              18.5739
+            ],
+            [
+              73.9859,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_155",
+      "properties": {
+        "SURVEY_NO": "155",
+        "SUB_DIV": "",
+        "GAT_NO": "155",
+        "OWNER": "Ashok Sawant",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5739
+            ],
+            [
+              73.9877,
+              18.575556
+            ],
+            [
+              73.989356,
+              18.575556
+            ],
+            [
+              73.989356,
+              18.5739
+            ],
+            [
+              73.9877,
+              18.5739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_156",
+      "properties": {
+        "SURVEY_NO": "156",
+        "SUB_DIV": "",
+        "GAT_NO": "156",
+        "OWNER": "Chandrakant Mane",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹65,00,000",
+        "MARKET_VAL": "₹71,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5757
+            ],
+            [
+              73.9751,
+              18.577356
+            ],
+            [
+              73.976756,
+              18.577356
+            ],
+            [
+              73.976756,
+              18.5757
+            ],
+            [
+              73.9751,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_157",
+      "properties": {
+        "SURVEY_NO": "157",
+        "SUB_DIV": "",
+        "GAT_NO": "157",
+        "OWNER": "Ganpatrao Thorat",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹77,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5757
+            ],
+            [
+              73.9769,
+              18.577356
+            ],
+            [
+              73.978556,
+              18.577356
+            ],
+            [
+              73.978556,
+              18.5757
+            ],
+            [
+              73.9769,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_158",
+      "properties": {
+        "SURVEY_NO": "158",
+        "SUB_DIV": "",
+        "GAT_NO": "158",
+        "OWNER": "Haribhau Ghadge",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹75,00,000",
+        "MARKET_VAL": "₹83,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5757
+            ],
+            [
+              73.9787,
+              18.577356
+            ],
+            [
+              73.980356,
+              18.577356
+            ],
+            [
+              73.980356,
+              18.5757
+            ],
+            [
+              73.9787,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_159",
+      "properties": {
+        "SURVEY_NO": "159",
+        "SUB_DIV": "",
+        "GAT_NO": "159",
+        "OWNER": "Kisanrao Nalawade",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹89,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5757
+            ],
+            [
+              73.9805,
+              18.577356
+            ],
+            [
+              73.982156,
+              18.577356
+            ],
+            [
+              73.982156,
+              18.5757
+            ],
+            [
+              73.9805,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_160",
+      "properties": {
+        "SURVEY_NO": "160",
+        "SUB_DIV": "",
+        "GAT_NO": "160",
+        "OWNER": "Ramesh Kulkarni",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹85,00,000",
+        "MARKET_VAL": "₹95,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5757
+            ],
+            [
+              73.9823,
+              18.577356
+            ],
+            [
+              73.983956,
+              18.577356
+            ],
+            [
+              73.983956,
+              18.5757
+            ],
+            [
+              73.9823,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_161",
+      "properties": {
+        "SURVEY_NO": "161",
+        "SUB_DIV": "",
+        "GAT_NO": "161",
+        "OWNER": "Suresh Patil",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹101,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5757
+            ],
+            [
+              73.9841,
+              18.577356
+            ],
+            [
+              73.985756,
+              18.577356
+            ],
+            [
+              73.985756,
+              18.5757
+            ],
+            [
+              73.9841,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_162",
+      "properties": {
+        "SURVEY_NO": "162",
+        "SUB_DIV": "",
+        "GAT_NO": "162",
+        "OWNER": "Vasantrao Deshmukh",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹107,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5757
+            ],
+            [
+              73.9859,
+              18.577356
+            ],
+            [
+              73.987556,
+              18.577356
+            ],
+            [
+              73.987556,
+              18.5757
+            ],
+            [
+              73.9859,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_163",
+      "properties": {
+        "SURVEY_NO": "163",
+        "SUB_DIV": "",
+        "GAT_NO": "163",
+        "OWNER": "Ananda Jagtap",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹100,00,000",
+        "MARKET_VAL": "₹113,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5757
+            ],
+            [
+              73.9877,
+              18.577356
+            ],
+            [
+              73.989356,
+              18.577356
+            ],
+            [
+              73.989356,
+              18.5757
+            ],
+            [
+              73.9877,
+              18.5757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_164",
+      "properties": {
+        "SURVEY_NO": "164",
+        "SUB_DIV": "",
+        "GAT_NO": "164",
+        "OWNER": "Dattatray Shinde",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹45,00,000",
+        "MARKET_VAL": "₹119,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5775
+            ],
+            [
+              73.9751,
+              18.579156
+            ],
+            [
+              73.976756,
+              18.579156
+            ],
+            [
+              73.976756,
+              18.5775
+            ],
+            [
+              73.9751,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_165",
+      "properties": {
+        "SURVEY_NO": "165",
+        "SUB_DIV": "",
+        "GAT_NO": "165",
+        "OWNER": "Babanrao Waghmare",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹125,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5775
+            ],
+            [
+              73.9769,
+              18.579156
+            ],
+            [
+              73.978556,
+              18.579156
+            ],
+            [
+              73.978556,
+              18.5775
+            ],
+            [
+              73.9769,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_166",
+      "properties": {
+        "SURVEY_NO": "166",
+        "SUB_DIV": "",
+        "GAT_NO": "166",
+        "OWNER": "Santosh Gaikwad",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹131,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5775
+            ],
+            [
+              73.9787,
+              18.579156
+            ],
+            [
+              73.980356,
+              18.579156
+            ],
+            [
+              73.980356,
+              18.5775
+            ],
+            [
+              73.9787,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_167",
+      "properties": {
+        "SURVEY_NO": "167",
+        "SUB_DIV": "",
+        "GAT_NO": "167",
+        "OWNER": "Pandurang More",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹137,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5775
+            ],
+            [
+              73.9805,
+              18.579156
+            ],
+            [
+              73.982156,
+              18.579156
+            ],
+            [
+              73.982156,
+              18.5775
+            ],
+            [
+              73.9805,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_141",
+      "properties": {
+        "SURVEY_NO": "141",
+        "SUB_DIV": "",
+        "GAT_NO": "141",
+        "OWNER": "Vasantrao Deshmukh",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹1,40,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5775
+            ],
+            [
+              73.9823,
+              18.579156
+            ],
+            [
+              73.983956,
+              18.579156
+            ],
+            [
+              73.983956,
+              18.5775
+            ],
+            [
+              73.9823,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_169",
+      "properties": {
+        "SURVEY_NO": "169",
+        "SUB_DIV": "",
+        "GAT_NO": "169",
+        "OWNER": "Sambhaji Bhosale",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹149,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5775
+            ],
+            [
+              73.9841,
+              18.579156
+            ],
+            [
+              73.985756,
+              18.579156
+            ],
+            [
+              73.985756,
+              18.5775
+            ],
+            [
+              73.9841,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_170",
+      "properties": {
+        "SURVEY_NO": "170",
+        "SUB_DIV": "",
+        "GAT_NO": "170",
+        "OWNER": "Kashinath Pawar",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹75,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5775
+            ],
+            [
+              73.9859,
+              18.579156
+            ],
+            [
+              73.987556,
+              18.579156
+            ],
+            [
+              73.987556,
+              18.5775
+            ],
+            [
+              73.9859,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_171",
+      "properties": {
+        "SURVEY_NO": "171",
+        "SUB_DIV": "",
+        "GAT_NO": "171",
+        "OWNER": "Namdeo Chavan",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹71,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5775
+            ],
+            [
+              73.9877,
+              18.579156
+            ],
+            [
+              73.989356,
+              18.579156
+            ],
+            [
+              73.989356,
+              18.5775
+            ],
+            [
+              73.9877,
+              18.5775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_172",
+      "properties": {
+        "SURVEY_NO": "172",
+        "SUB_DIV": "",
+        "GAT_NO": "172",
+        "OWNER": "Tukaram Salunke",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹85,00,000",
+        "MARKET_VAL": "₹77,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5793
+            ],
+            [
+              73.9751,
+              18.580956
+            ],
+            [
+              73.976756,
+              18.580956
+            ],
+            [
+              73.976756,
+              18.5793
+            ],
+            [
+              73.9751,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_173",
+      "properties": {
+        "SURVEY_NO": "173",
+        "SUB_DIV": "",
+        "GAT_NO": "173",
+        "OWNER": "Balasaheb Kadam",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹83,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5793
+            ],
+            [
+              73.9769,
+              18.580956
+            ],
+            [
+              73.978556,
+              18.580956
+            ],
+            [
+              73.978556,
+              18.5793
+            ],
+            [
+              73.9769,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_174",
+      "properties": {
+        "SURVEY_NO": "174",
+        "SUB_DIV": "",
+        "GAT_NO": "174",
+        "OWNER": "Vitthal Mohite",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹89,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5793
+            ],
+            [
+              73.9787,
+              18.580956
+            ],
+            [
+              73.980356,
+              18.580956
+            ],
+            [
+              73.980356,
+              18.5793
+            ],
+            [
+              73.9787,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_175",
+      "properties": {
+        "SURVEY_NO": "175",
+        "SUB_DIV": "",
+        "GAT_NO": "175",
+        "OWNER": "Ashok Sawant",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹100,00,000",
+        "MARKET_VAL": "₹95,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5793
+            ],
+            [
+              73.9805,
+              18.580956
+            ],
+            [
+              73.982156,
+              18.580956
+            ],
+            [
+              73.982156,
+              18.5793
+            ],
+            [
+              73.9805,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_142_2a",
+      "properties": {
+        "SURVEY_NO": "142/2A",
+        "SUB_DIV": "2A",
+        "GAT_NO": "142/2A",
+        "OWNER": "Ramesh Kulkarni",
+        "AREA_ACRE": "1.25 Acres",
+        "EXTENT": "1.25 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹48,00,000",
+        "MARKET_VAL": "₹72,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5793
+            ],
+            [
+              73.9823,
+              18.580956
+            ],
+            [
+              73.983956,
+              18.580956
+            ],
+            [
+              73.983956,
+              18.5793
+            ],
+            [
+              73.9823,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_142_2b",
+      "properties": {
+        "SURVEY_NO": "142/2B",
+        "SUB_DIV": "2B",
+        "GAT_NO": "142/2B",
+        "OWNER": "Suresh Patil",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹42,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5793
+            ],
+            [
+              73.9841,
+              18.580956
+            ],
+            [
+              73.985756,
+              18.580956
+            ],
+            [
+              73.985756,
+              18.5793
+            ],
+            [
+              73.9841,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_178",
+      "properties": {
+        "SURVEY_NO": "178",
+        "SUB_DIV": "",
+        "GAT_NO": "178",
+        "OWNER": "Haribhau Ghadge",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹113,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5793
+            ],
+            [
+              73.9859,
+              18.580956
+            ],
+            [
+              73.987556,
+              18.580956
+            ],
+            [
+              73.987556,
+              18.5793
+            ],
+            [
+              73.9859,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_179",
+      "properties": {
+        "SURVEY_NO": "179",
+        "SUB_DIV": "",
+        "GAT_NO": "179",
+        "OWNER": "Kisanrao Nalawade",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹119,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5793
+            ],
+            [
+              73.9877,
+              18.580956
+            ],
+            [
+              73.989356,
+              18.580956
+            ],
+            [
+              73.989356,
+              18.5793
+            ],
+            [
+              73.9877,
+              18.5793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_180",
+      "properties": {
+        "SURVEY_NO": "180",
+        "SUB_DIV": "",
+        "GAT_NO": "180",
+        "OWNER": "Ramesh Kulkarni",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹65,00,000",
+        "MARKET_VAL": "₹125,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5811
+            ],
+            [
+              73.9751,
+              18.582756
+            ],
+            [
+              73.976756,
+              18.582756
+            ],
+            [
+              73.976756,
+              18.5811
+            ],
+            [
+              73.9751,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_181",
+      "properties": {
+        "SURVEY_NO": "181",
+        "SUB_DIV": "",
+        "GAT_NO": "181",
+        "OWNER": "Suresh Patil",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹131,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5811
+            ],
+            [
+              73.9769,
+              18.582756
+            ],
+            [
+              73.978556,
+              18.582756
+            ],
+            [
+              73.978556,
+              18.5811
+            ],
+            [
+              73.9769,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_182",
+      "properties": {
+        "SURVEY_NO": "182",
+        "SUB_DIV": "",
+        "GAT_NO": "182",
+        "OWNER": "Vasantrao Deshmukh",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹75,00,000",
+        "MARKET_VAL": "₹137,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5811
+            ],
+            [
+              73.9787,
+              18.582756
+            ],
+            [
+              73.980356,
+              18.582756
+            ],
+            [
+              73.980356,
+              18.5811
+            ],
+            [
+              73.9787,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_183",
+      "properties": {
+        "SURVEY_NO": "183",
+        "SUB_DIV": "",
+        "GAT_NO": "183",
+        "OWNER": "Ananda Jagtap",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹143,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5811
+            ],
+            [
+              73.9805,
+              18.582756
+            ],
+            [
+              73.982156,
+              18.582756
+            ],
+            [
+              73.982156,
+              18.5811
+            ],
+            [
+              73.9805,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_143",
+      "properties": {
+        "SURVEY_NO": "143",
+        "SUB_DIV": "",
+        "GAT_NO": "143",
+        "OWNER": "Ananda Jagtap",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹58,00,000",
+        "MARKET_VAL": "₹82,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5811
+            ],
+            [
+              73.9823,
+              18.582756
+            ],
+            [
+              73.983956,
+              18.582756
+            ],
+            [
+              73.983956,
+              18.5811
+            ],
+            [
+              73.9823,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_185",
+      "properties": {
+        "SURVEY_NO": "185",
+        "SUB_DIV": "",
+        "GAT_NO": "185",
+        "OWNER": "Babanrao Waghmare",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5811
+            ],
+            [
+              73.9841,
+              18.582756
+            ],
+            [
+              73.985756,
+              18.582756
+            ],
+            [
+              73.985756,
+              18.5811
+            ],
+            [
+              73.9841,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_186",
+      "properties": {
+        "SURVEY_NO": "186",
+        "SUB_DIV": "",
+        "GAT_NO": "186",
+        "OWNER": "Santosh Gaikwad",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹71,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5811
+            ],
+            [
+              73.9859,
+              18.582756
+            ],
+            [
+              73.987556,
+              18.582756
+            ],
+            [
+              73.987556,
+              18.5811
+            ],
+            [
+              73.9859,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_187",
+      "properties": {
+        "SURVEY_NO": "187",
+        "SUB_DIV": "",
+        "GAT_NO": "187",
+        "OWNER": "Pandurang More",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹100,00,000",
+        "MARKET_VAL": "₹77,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5811
+            ],
+            [
+              73.9877,
+              18.582756
+            ],
+            [
+              73.989356,
+              18.582756
+            ],
+            [
+              73.989356,
+              18.5811
+            ],
+            [
+              73.9877,
+              18.5811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_188",
+      "properties": {
+        "SURVEY_NO": "188",
+        "SUB_DIV": "",
+        "GAT_NO": "188",
+        "OWNER": "Eknath Jadhav",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹45,00,000",
+        "MARKET_VAL": "₹83,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5829
+            ],
+            [
+              73.9751,
+              18.584556
+            ],
+            [
+              73.976756,
+              18.584556
+            ],
+            [
+              73.976756,
+              18.5829
+            ],
+            [
+              73.9751,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_189",
+      "properties": {
+        "SURVEY_NO": "189",
+        "SUB_DIV": "",
+        "GAT_NO": "189",
+        "OWNER": "Sambhaji Bhosale",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹89,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5829
+            ],
+            [
+              73.9769,
+              18.584556
+            ],
+            [
+              73.978556,
+              18.584556
+            ],
+            [
+              73.978556,
+              18.5829
+            ],
+            [
+              73.9769,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_190",
+      "properties": {
+        "SURVEY_NO": "190",
+        "SUB_DIV": "",
+        "GAT_NO": "190",
+        "OWNER": "Kashinath Pawar",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹95,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5829
+            ],
+            [
+              73.9787,
+              18.584556
+            ],
+            [
+              73.980356,
+              18.584556
+            ],
+            [
+              73.980356,
+              18.5829
+            ],
+            [
+              73.9787,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_191",
+      "properties": {
+        "SURVEY_NO": "191",
+        "SUB_DIV": "",
+        "GAT_NO": "191",
+        "OWNER": "Namdeo Chavan",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹101,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5829
+            ],
+            [
+              73.9805,
+              18.584556
+            ],
+            [
+              73.982156,
+              18.584556
+            ],
+            [
+              73.982156,
+              18.5829
+            ],
+            [
+              73.9805,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_192",
+      "properties": {
+        "SURVEY_NO": "192",
+        "SUB_DIV": "",
+        "GAT_NO": "192",
+        "OWNER": "Tukaram Salunke",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹65,00,000",
+        "MARKET_VAL": "₹107,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5829
+            ],
+            [
+              73.9823,
+              18.584556
+            ],
+            [
+              73.983956,
+              18.584556
+            ],
+            [
+              73.983956,
+              18.5829
+            ],
+            [
+              73.9823,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_193",
+      "properties": {
+        "SURVEY_NO": "193",
+        "SUB_DIV": "",
+        "GAT_NO": "193",
+        "OWNER": "Balasaheb Kadam",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹70,00,000",
+        "MARKET_VAL": "₹113,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5829
+            ],
+            [
+              73.9841,
+              18.584556
+            ],
+            [
+              73.985756,
+              18.584556
+            ],
+            [
+              73.985756,
+              18.5829
+            ],
+            [
+              73.9841,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_194",
+      "properties": {
+        "SURVEY_NO": "194",
+        "SUB_DIV": "",
+        "GAT_NO": "194",
+        "OWNER": "Vitthal Mohite",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹75,00,000",
+        "MARKET_VAL": "₹119,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5829
+            ],
+            [
+              73.9859,
+              18.584556
+            ],
+            [
+              73.987556,
+              18.584556
+            ],
+            [
+              73.987556,
+              18.5829
+            ],
+            [
+              73.9859,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_195",
+      "properties": {
+        "SURVEY_NO": "195",
+        "SUB_DIV": "",
+        "GAT_NO": "195",
+        "OWNER": "Ashok Sawant",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹80,00,000",
+        "MARKET_VAL": "₹125,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5829
+            ],
+            [
+              73.9877,
+              18.584556
+            ],
+            [
+              73.989356,
+              18.584556
+            ],
+            [
+              73.989356,
+              18.5829
+            ],
+            [
+              73.9877,
+              18.5829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_196",
+      "properties": {
+        "SURVEY_NO": "196",
+        "SUB_DIV": "",
+        "GAT_NO": "196",
+        "OWNER": "Chandrakant Mane",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹85,00,000",
+        "MARKET_VAL": "₹131,00,000",
+        "CLEAN_TITLE_SCORE": 92,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9751,
+              18.5847
+            ],
+            [
+              73.9751,
+              18.586356
+            ],
+            [
+              73.976756,
+              18.586356
+            ],
+            [
+              73.976756,
+              18.5847
+            ],
+            [
+              73.9751,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_197",
+      "properties": {
+        "SURVEY_NO": "197",
+        "SUB_DIV": "",
+        "GAT_NO": "197",
+        "OWNER": "Ganpatrao Thorat",
+        "AREA_ACRE": "1.45 Acres",
+        "EXTENT": "1.45 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹90,00,000",
+        "MARKET_VAL": "₹137,00,000",
+        "CLEAN_TITLE_SCORE": 93,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9769,
+              18.5847
+            ],
+            [
+              73.9769,
+              18.586356
+            ],
+            [
+              73.978556,
+              18.586356
+            ],
+            [
+              73.978556,
+              18.5847
+            ],
+            [
+              73.9769,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_198",
+      "properties": {
+        "SURVEY_NO": "198",
+        "SUB_DIV": "",
+        "GAT_NO": "198",
+        "OWNER": "Haribhau Ghadge",
+        "AREA_ACRE": "1.80 Acres",
+        "EXTENT": "1.80 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹95,00,000",
+        "MARKET_VAL": "₹143,00,000",
+        "CLEAN_TITLE_SCORE": 94,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9787,
+              18.5847
+            ],
+            [
+              73.9787,
+              18.586356
+            ],
+            [
+              73.980356,
+              18.586356
+            ],
+            [
+              73.980356,
+              18.5847
+            ],
+            [
+              73.9787,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_199",
+      "properties": {
+        "SURVEY_NO": "199",
+        "SUB_DIV": "",
+        "GAT_NO": "199",
+        "OWNER": "Kisanrao Nalawade",
+        "AREA_ACRE": "2.15 Acres",
+        "EXTENT": "2.15 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹100,00,000",
+        "MARKET_VAL": "₹149,00,000",
+        "CLEAN_TITLE_SCORE": 95,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9805,
+              18.5847
+            ],
+            [
+              73.9805,
+              18.586356
+            ],
+            [
+              73.982156,
+              18.586356
+            ],
+            [
+              73.982156,
+              18.5847
+            ],
+            [
+              73.9805,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_200",
+      "properties": {
+        "SURVEY_NO": "200",
+        "SUB_DIV": "",
+        "GAT_NO": "200",
+        "OWNER": "Ramesh Kulkarni",
+        "AREA_ACRE": "2.50 Acres",
+        "EXTENT": "2.50 Acres",
+        "LAND_USE": "Residential Freehold",
+        "LAND_TYPE": "Residential Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹45,00,000",
+        "MARKET_VAL": "₹65,00,000",
+        "CLEAN_TITLE_SCORE": 96,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9823,
+              18.5847
+            ],
+            [
+              73.9823,
+              18.586356
+            ],
+            [
+              73.983956,
+              18.586356
+            ],
+            [
+              73.983956,
+              18.5847
+            ],
+            [
+              73.9823,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_201",
+      "properties": {
+        "SURVEY_NO": "201",
+        "SUB_DIV": "",
+        "GAT_NO": "201",
+        "OWNER": "Suresh Patil",
+        "AREA_ACRE": "2.85 Acres",
+        "EXTENT": "2.85 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹50,00,000",
+        "MARKET_VAL": "₹71,00,000",
+        "CLEAN_TITLE_SCORE": 97,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9841,
+              18.5847
+            ],
+            [
+              73.9841,
+              18.586356
+            ],
+            [
+              73.985756,
+              18.586356
+            ],
+            [
+              73.985756,
+              18.5847
+            ],
+            [
+              73.9841,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_202",
+      "properties": {
+        "SURVEY_NO": "202",
+        "SUB_DIV": "",
+        "GAT_NO": "202",
+        "OWNER": "Vasantrao Deshmukh",
+        "AREA_ACRE": "3.20 Acres",
+        "EXTENT": "3.20 Acres",
+        "LAND_USE": "Agricultural Freehold",
+        "LAND_TYPE": "Agricultural Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹55,00,000",
+        "MARKET_VAL": "₹77,00,000",
+        "CLEAN_TITLE_SCORE": 98,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9859,
+              18.5847
+            ],
+            [
+              73.9859,
+              18.586356
+            ],
+            [
+              73.987556,
+              18.586356
+            ],
+            [
+              73.987556,
+              18.5847
+            ],
+            [
+              73.9859,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "parcel_mh_haveli_wagholi_203",
+      "properties": {
+        "SURVEY_NO": "203",
+        "SUB_DIV": "",
+        "GAT_NO": "203",
+        "OWNER": "Ananda Jagtap",
+        "AREA_ACRE": "1.10 Acres",
+        "EXTENT": "1.10 Acres",
+        "LAND_USE": "Commercial Freehold",
+        "LAND_TYPE": "Commercial Freehold",
+        "VILLAGE": "Wagholi",
+        "TALUKA": "Haveli",
+        "DISTRICT": "Pune",
+        "STATE": "MH",
+        "GUIDANCE_VAL": "₹60,00,000",
+        "MARKET_VAL": "₹83,00,000",
+        "CLEAN_TITLE_SCORE": 99,
+        "STATUS": "CLEAN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9877,
+              18.5847
+            ],
+            [
+              73.9877,
+              18.586356
+            ],
+            [
+              73.989356,
+              18.586356
+            ],
+            [
+              73.989356,
+              18.5847
+            ],
+            [
+              73.9877,
+              18.5847
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

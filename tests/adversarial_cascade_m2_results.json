@@ -1,0 +1,203 @@
+{
+  "timestamp": "2026-10-31T19:26:01.953Z",
+  "verdict": "APPROVE",
+  "passed": 22,
+  "failed": 0,
+  "total": 22,
+  "results": [
+    {
+      "id": "TEST_C2_01",
+      "status": "PASS",
+      "description": "District modal opened with complete DOM structure, search input, count badge, and 8 options",
+      "details": {
+        "optionsCount": 8
+      }
+    },
+    {
+      "id": "TEST_C2_02",
+      "status": "PASS",
+      "description": "Live search filtering narrowed 8 districts to Thane with accurate counter",
+      "details": {
+        "count": "Showing 1 of 8",
+        "options": [
+          "Thane"
+        ]
+      }
+    },
+    {
+      "id": "TEST_C2_03",
+      "status": "PASS",
+      "description": "Case-insensitive search query \"kOLhApUr\" correctly matched Kolhapur",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_04",
+      "status": "PASS",
+      "description": "Clear search button restored all 8 districts and emptied input",
+      "details": {
+        "inputVal": "",
+        "count": "Showing 8 of 8",
+        "optionsCount": 8
+      }
+    },
+    {
+      "id": "TEST_C2_05",
+      "status": "PASS",
+      "description": "Empty search state rendered gracefully with warning and zero count badge",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_06",
+      "status": "PASS",
+      "description": "Modal dismissed cleanly via close button (X)",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_07",
+      "status": "PASS",
+      "description": "Modal dismissed cleanly via outside backdrop click",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_08",
+      "status": "PASS",
+      "description": "Reopening modal reset search input to empty and showed all 8 districts",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_09",
+      "status": "PASS",
+      "description": "Selected Nashik district: modal closed and trigger updated to Nashik",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_10",
+      "status": "PASS",
+      "description": "District change fetched and populated Nashik talukas",
+      "details": {
+        "talukaOptions": [
+          "Nashik",
+          "Sinnar",
+          "Niphad",
+          "Igatpuri"
+        ]
+      }
+    },
+    {
+      "id": "TEST_C2_11",
+      "status": "PASS",
+      "description": "Villages auto-fetched and populated for Nashik taluka",
+      "details": {
+        "villageOptionsCount": 7
+      }
+    },
+    {
+      "id": "TEST_C2_12",
+      "status": "PASS",
+      "description": "Changing Taluka to Sinnar updated Taluka and cascaded Village to Sinnar Rural",
+      "details": {
+        "district": "Nashik",
+        "taluka": "Sinnar",
+        "village": "Sinnar Rural"
+      }
+    },
+    {
+      "id": "TEST_C2_13",
+      "status": "PASS",
+      "description": "Sinnar village options verified and Musalgaon selected successfully",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_14",
+      "status": "PASS",
+      "description": "Deep-link URL params hydrated Kolhapur > Karvir > Kolhapur City without clobbering",
+      "details": {
+        "district": "Kolhapur",
+        "taluka": "Karvir",
+        "village": "Kolhapur City"
+      }
+    },
+    {
+      "id": "TEST_C2_15",
+      "status": "PASS",
+      "description": "User-initiated District change cleanly invalidated previous deep-link params and re-cascaded Pune defaults",
+      "details": {
+        "district": "Pune",
+        "taluka": "Haveli",
+        "village": "Wagholi"
+      }
+    },
+    {
+      "id": "TEST_C2_16",
+      "status": "PASS",
+      "description": "Search filter survived 10 regex metacharacters without unhandled exceptions",
+      "details": null
+    },
+    {
+      "id": "TEST_C2_17",
+      "status": "PASS",
+      "description": "Rapid sequential district switching stress settled synchronously on valid final hierarchy",
+      "details": {
+        "district": "Pune",
+        "taluka": "Haveli",
+        "village": "Wagholi"
+      }
+    },
+    {
+      "id": "TEST_C2_18",
+      "status": "PASS",
+      "description": "Responsive layout bounded & centered on Desktop (1280x900)",
+      "details": {
+        "width": 500,
+        "height": 552,
+        "top": 174,
+        "left": 390,
+        "windowWidth": 1280,
+        "windowHeight": 900,
+        "fitsInWindow": true
+      }
+    },
+    {
+      "id": "TEST_C2_19",
+      "status": "PASS",
+      "description": "Responsive layout bounded & centered on Tablet (768x1024)",
+      "details": {
+        "width": 500,
+        "height": 552,
+        "top": 236,
+        "left": 134,
+        "windowWidth": 768,
+        "windowHeight": 1024,
+        "fitsInWindow": true
+      }
+    },
+    {
+      "id": "TEST_C2_20",
+      "status": "PASS",
+      "description": "Responsive layout bounded & centered on Mobile (375x812)",
+      "details": {
+        "width": 335,
+        "height": 552,
+        "top": 130,
+        "left": 20,
+        "windowWidth": 375,
+        "windowHeight": 812,
+        "fitsInWindow": true
+      }
+    },
+    {
+      "id": "TEST_C2_21",
+      "status": "PASS",
+      "description": "Multi-state Karnataka (/search/KA) loaded canonical hierarchy Bengaluru Urban > Bengaluru South > Electronic City",
+      "details": {
+        "kaDistrictsCount": 7
+      }
+    },
+    {
+      "id": "TEST_C2_22",
+      "status": "PASS",
+      "description": "Zero unhandled client-side runtime errors or React exceptions during entire test session",
+      "details": null
+    }
+  ]
+}
